@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\DRL-RIS-VEHICLE\\Resource_allocation_PPO_RIS_V2V\\model/sarl_model/agent"
+all_model_checkpoint_paths: "D:\\DRL-RIS-VEHICLE\\Resource_allocation_PPO_RIS_V2V\\model/sarl_model/agent"

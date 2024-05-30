@@ -1,0 +1,6525 @@
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 6.89687 Mbps
+Pr(V2V): nan
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.28463 Mbps
+Pr(V2V): 0.77
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.28463 Mbps
+Pr(V2V): 0.77
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.28463 Mbps
+Pr(V2V): 0.77
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.98986 Mbps
+Pr(V2V): 0.18022
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.51501 Mbps
+Pr(V2V): 0.77
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.26392 Mbps
+Pr(V2V): 0.05794
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.51501 Mbps
+Pr(V2V): 0.77
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.26392 Mbps
+Pr(V2V): 0.05794
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.73348 Mbps
+Pr(V2V): 0.4505
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.96295 Mbps
+Pr(V2V): 0.1561
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.89764 Mbps
+Pr(V2V): 0.61667
+-------- random, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.48289 Mbps
+Pr(V2V): 0.28443
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.09325 Mbps
+Pr(V2V): 0.625
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.27598 Mbps
+Pr(V2V): 0.54167
+-------- random, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.48289 Mbps
+Pr(V2V): 0.28443
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.52141 Mbps
+Pr(V2V): 0.7125
+-------- random, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.26392 Mbps
+Pr(V2V): 0.05794
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.63743 Mbps
+Pr(V2V): 0.59083
+-------- random, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.59469 Mbps
+Pr(V2V): 0.23981
+-------- sarl, ddpg_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.37071 Mbps
+Sum V2I AoI: 29.819000000000003
+Pr(V2V): 0.48312
+-------- sarl, ddpg_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.37071 Mbps
+Sum V2I AoI: 29.819000000000003
+Pr(V2V): 0.48312
+-------- sarl, ddpg_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.23667 Mbps
+Sum V2I AoI: 12.3191
+Pr(V2V): 0.60895
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.74607 Mbps
+Sum V2I AoI: 4.224
+Pr(V2V): 0.9735
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.17541 Mbps
+Sum V2I AoI: 4.3217
+Pr(V2V): 0.93998
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.1968 Mbps
+Sum V2I AoI: 4.3419
+Pr(V2V): 0.94025
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.22929 Mbps
+Sum V2I AoI: 4.3022
+Pr(V2V): 0.94125
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.13943 Mbps
+Sum V2I AoI: 4.319
+Pr(V2V): 0.9402
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.72918 Mbps
+Sum V2I AoI: 4.2246
+Pr(V2V): 0.97305
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.14319 Mbps
+Sum V2I AoI: 4.5093000000000005
+Pr(V2V): 0.75475
+-------- sarl, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.60294 Mbps
+Sum V2I AoI: 4.888000000000001
+Pr(V2V): 0.44492
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.011 Mbps
+Sum V2I AoI: 8.6701
+Pr(V2V): 0.88955
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.55349 Mbps
+Sum V2I AoI: 4.7006
+Pr(V2V): 0.9564
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.40604 Mbps
+Sum V2I AoI: 5.128399999999999
+Pr(V2V): 0.95245
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.37108 Mbps
+Sum V2I AoI: 5.0172
+Pr(V2V): 0.9524
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.38645 Mbps
+Sum V2I AoI: 5.0512
+Pr(V2V): 0.95275
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.10848 Mbps
+Sum V2I AoI: 5.026666666666667
+Pr(V2V): 0.94625
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.9799 Mbps
+Sum V2I AoI: 5.009333333333332
+Pr(V2V): 0.94425
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.00258 Mbps
+Sum V2I AoI: 5.009
+Pr(V2V): 0.94425
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.97865 Mbps
+Sum V2I AoI: 8.605666666666668
+Pr(V2V): 0.86042
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.03036 Mbps
+Sum V2I AoI: 7.828333333333333
+Pr(V2V): 0.88067
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.43323 Mbps
+Sum V2I AoI: 7.629333333333335
+Pr(V2V): 0.88767
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.80632 Mbps
+Sum V2I AoI: 8.006333333333332
+Pr(V2V): 0.87683
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.73705 Mbps
+Sum V2I AoI: 7.83
+Pr(V2V): 0.87558
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.1164 Mbps
+Sum V2I AoI: 7.938666666666666
+Pr(V2V): 0.88125
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.95903 Mbps
+Sum V2I AoI: 5.600333333333333
+Pr(V2V): 0.87933
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.35472 Mbps
+Sum V2I AoI: 6.368333333333334
+Pr(V2V): 0.86708
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.93611 Mbps
+Sum V2I AoI: 5.8916666666666675
+Pr(V2V): 0.87775
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.94935 Mbps
+Sum V2I AoI: 5.4913333333333325
+Pr(V2V): 0.879
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.89708 Mbps
+Sum V2I AoI: 6.54
+Pr(V2V): 0.85717
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.8422 Mbps
+Sum V2I AoI: 5.6516666666666655
+Pr(V2V): 0.87442
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.23635 Mbps
+Sum V2I AoI: 4.423
+Pr(V2V): 0.934
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.22674 Mbps
+Sum V2I AoI: 4.415
+Pr(V2V): 0.93358
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.6924 Mbps
+Sum V2I AoI: 7.226333333333332
+Pr(V2V): 0.73833
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.7232 Mbps
+Sum V2I AoI: 7.662666666666668
+Pr(V2V): 0.745
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.04976 Mbps
+Sum V2I AoI: 4.932
+Pr(V2V): 0.94592
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.07839 Mbps
+Sum V2I AoI: 5.025333333333333
+Pr(V2V): 0.94558
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.02711 Mbps
+Sum V2I AoI: 4.911666666666665
+Pr(V2V): 0.94475
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.05842 Mbps
+Sum V2I AoI: 4.978666666666667
+Pr(V2V): 0.9455
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.6175 Mbps
+Sum V2I AoI: 7.433666666666667
+Pr(V2V): 0.89233
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.63689 Mbps
+Sum V2I AoI: 8.185
+Pr(V2V): 0.87133
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.34872 Mbps
+Sum V2I AoI: 7.108999999999999
+Pr(V2V): 0.88708
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.6976 Mbps
+Sum V2I AoI: 7.655666666666666
+Pr(V2V): 0.87642
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.32285 Mbps
+Sum V2I AoI: 6.658333333333332
+Pr(V2V): 0.89058
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.67125 Mbps
+Sum V2I AoI: 6.001333333333335
+Pr(V2V): 0.91742
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.49253 Mbps
+Sum V2I AoI: 5.367
+Pr(V2V): 0.93392
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.07793 Mbps
+Sum V2I AoI: 5.003333333333334
+Pr(V2V): 0.94617
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.52936 Mbps
+Sum V2I AoI: 4.834999999999999
+Pr(V2V): 0.9545
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.79257 Mbps
+Sum V2I AoI: 4.605666666666667
+Pr(V2V): 0.95983
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.12445 Mbps
+Sum V2I AoI: 4.498
+Pr(V2V): 0.96667
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.26447 Mbps
+Sum V2I AoI: 4.4319999999999995
+Pr(V2V): 0.96842
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.43486 Mbps
+Sum V2I AoI: 4.369000000000001
+Pr(V2V): 0.97217
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.53847 Mbps
+Sum V2I AoI: 4.308000000000001
+Pr(V2V): 0.97492
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.59822 Mbps
+Sum V2I AoI: 4.297333333333333
+Pr(V2V): 0.975
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.57723 Mbps
+Sum V2I AoI: 4.263999999999999
+Pr(V2V): 0.97508
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.64372 Mbps
+Sum V2I AoI: 4.222333333333333
+Pr(V2V): 0.97792
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.85166 Mbps
+Sum V2I AoI: 4.209666666666667
+Pr(V2V): 0.97983
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.23382 Mbps
+Sum V2I AoI: 4.966333333333335
+Pr(V2V): 0.97367
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.4875 Mbps
+Sum V2I AoI: 4.867666666666666
+Pr(V2V): 0.97308
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.99641 Mbps
+Sum V2I AoI: 4.935333333333333
+Pr(V2V): 0.944
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.22902 Mbps
+Sum V2I AoI: 4.998000000000001
+Pr(V2V): 0.97242
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.48611 Mbps
+Sum V2I AoI: 4.840333333333333
+Pr(V2V): 0.97392
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.72336 Mbps
+Sum V2I AoI: 4.818999999999999
+Pr(V2V): 0.97167
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.18192 Mbps
+Sum V2I AoI: 4.703333333333333
+Pr(V2V): 0.97025
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.76143 Mbps
+Sum V2I AoI: 4.559
+Pr(V2V): 0.97233
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.24445 Mbps
+Sum V2I AoI: 4.523666666666667
+Pr(V2V): 0.96992
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.80745 Mbps
+Sum V2I AoI: 4.522
+Pr(V2V): 0.96875
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.29034 Mbps
+Sum V2I AoI: 4.4816666666666665
+Pr(V2V): 0.96733
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.7962 Mbps
+Sum V2I AoI: 4.548
+Pr(V2V): 0.96567
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.24848 Mbps
+Sum V2I AoI: 4.629333333333334
+Pr(V2V): 0.96225
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.66088 Mbps
+Sum V2I AoI: 4.706333333333334
+Pr(V2V): 0.95983
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.97139 Mbps
+Sum V2I AoI: 4.810333333333334
+Pr(V2V): 0.95475
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.06243 Mbps
+Sum V2I AoI: 5.026666666666667
+Pr(V2V): 0.94575
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 65.12265 Mbps
+Sum V2I AoI: 5.360333333333331
+Pr(V2V): 0.93583
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 66.96191 Mbps
+Sum V2I AoI: 5.743333333333333
+Pr(V2V): 0.9235
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.26794 Mbps
+Sum V2I AoI: 6.4833333333333325
+Pr(V2V): 0.90208
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.3994 Mbps
+Sum V2I AoI: 6.129666666666668
+Pr(V2V): 0.90408
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.01978 Mbps
+Sum V2I AoI: 5.104333333333333
+Pr(V2V): 0.97333
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 27.73927 Mbps
+Sum V2I AoI: 6.839
+Pr(V2V): 0.97442
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 23.11295 Mbps
+Sum V2I AoI: 9.086999999999998
+Pr(V2V): 0.9735
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.0995 Mbps
+Sum V2I AoI: 5.729333333333334
+Pr(V2V): 0.34
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.66673 Mbps
+Sum V2I AoI: 8.305333333333332
+Pr(V2V): 0.51917
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.23787 Mbps
+Sum V2I AoI: 8.549333333333331
+Pr(V2V): 0.527
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.7611 Mbps
+Sum V2I AoI: 6.642666666666667
+Pr(V2V): 0.88967
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.03468 Mbps
+Sum V2I AoI: 5.1163333333333325
+Pr(V2V): 0.94533
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.73251 Mbps
+Sum V2I AoI: 6.856666666666667
+Pr(V2V): 0.88817
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 71.77686 Mbps
+Sum V2I AoI: 4.735666666666668
+Pr(V2V): 0.94892
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.09311 Mbps
+Sum V2I AoI: 4.306666666666667
+Pr(V2V): 0.38758
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.23097 Mbps
+Sum V2I AoI: 4.316
+Pr(V2V): 0.38725
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.81136 Mbps
+Sum V2I AoI: 4.3693333333333335
+Pr(V2V): 0.41142
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.84577 Mbps
+Sum V2I AoI: 4.415000000000001
+Pr(V2V): 0.45033
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.16018 Mbps
+Sum V2I AoI: 4.378
+Pr(V2V): 0.51058
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.0716 Mbps
+Sum V2I AoI: 4.398
+Pr(V2V): 0.57808
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.81843 Mbps
+Sum V2I AoI: 4.3533333333333335
+Pr(V2V): 0.63283
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.04153 Mbps
+Sum V2I AoI: 4.311333333333334
+Pr(V2V): 0.66183
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.72029 Mbps
+Sum V2I AoI: 4.321666666666667
+Pr(V2V): 0.65842
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.09091 Mbps
+Sum V2I AoI: 4.2826666666666675
+Pr(V2V): 0.69342
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.48052 Mbps
+Sum V2I AoI: 4.269333333333334
+Pr(V2V): 0.71983
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.17787 Mbps
+Sum V2I AoI: 4.271333333333334
+Pr(V2V): 0.75258
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.19511 Mbps
+Sum V2I AoI: 4.2333333333333325
+Pr(V2V): 0.80133
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 66.63692 Mbps
+Sum V2I AoI: 8.206666666666667
+Pr(V2V): 0.863
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 66.1238 Mbps
+Sum V2I AoI: 8.289333333333332
+Pr(V2V): 0.84967
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 66.52041 Mbps
+Sum V2I AoI: 7.975999999999999
+Pr(V2V): 0.86167
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.21711 Mbps
+Sum V2I AoI: 8.289666666666667
+Pr(V2V): 0.88908
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 70.1826 Mbps
+Sum V2I AoI: 5.982666666666669
+Pr(V2V): 0.92517
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 70.86784 Mbps
+Sum V2I AoI: 5.218666666666667
+Pr(V2V): 0.9345
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 71.06889 Mbps
+Sum V2I AoI: 5.154999999999999
+Pr(V2V): 0.939
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 71.61395 Mbps
+Sum V2I AoI: 4.708666666666665
+Pr(V2V): 0.94692
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 72.25099 Mbps
+Sum V2I AoI: 4.5360000000000005
+Pr(V2V): 0.95775
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 67.81293 Mbps
+Sum V2I AoI: 9.249999999999998
+Pr(V2V): 0.88283
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 66.08126 Mbps
+Sum V2I AoI: 8.338666666666667
+Pr(V2V): 0.84942
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 64.35728 Mbps
+Sum V2I AoI: 4.337
+Pr(V2V): 0.81875
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.5593 Mbps
+Sum V2I AoI: 4.357333333333333
+Pr(V2V): 0.96233
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 71.71696 Mbps
+Sum V2I AoI: 4.762333333333333
+Pr(V2V): 0.94892
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.26064 Mbps
+Sum V2I AoI: 4.304999999999999
+Pr(V2V): 0.97583
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.39836 Mbps
+Sum V2I AoI: 5.177666666666666
+Pr(V2V): 0.918
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.26872 Mbps
+Sum V2I AoI: 5.087999999999999
+Pr(V2V): 0.91408
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.24492 Mbps
+Sum V2I AoI: 5.271666666666666
+Pr(V2V): 0.91392
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.37505 Mbps
+Sum V2I AoI: 5.128
+Pr(V2V): 0.91975
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.41315 Mbps
+Sum V2I AoI: 5.237000000000001
+Pr(V2V): 0.91583
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.2486 Mbps
+Sum V2I AoI: 5.164333333333333
+Pr(V2V): 0.91267
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.18768 Mbps
+Sum V2I AoI: 5.201
+Pr(V2V): 0.91033
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.96954 Mbps
+Sum V2I AoI: 5.526
+Pr(V2V): 0.90483
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.22618 Mbps
+Sum V2I AoI: 5.204
+Pr(V2V): 0.91392
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.1741 Mbps
+Sum V2I AoI: 5.326666666666666
+Pr(V2V): 0.91217
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.33003 Mbps
+Sum V2I AoI: 5.1850000000000005
+Pr(V2V): 0.917
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.35118 Mbps
+Sum V2I AoI: 5.306333333333332
+Pr(V2V): 0.91517
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.58109 Mbps
+Sum V2I AoI: 5.171666666666667
+Pr(V2V): 0.91967
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.4218 Mbps
+Sum V2I AoI: 5.117
+Pr(V2V): 0.919
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.17804 Mbps
+Sum V2I AoI: 5.301000000000001
+Pr(V2V): 0.909
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.53509 Mbps
+Sum V2I AoI: 5.014333333333334
+Pr(V2V): 0.92367
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.80733 Mbps
+Sum V2I AoI: 4.6956
+Pr(V2V): 0.9449
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.99493 Mbps
+Sum V2I AoI: 5.0548
+Pr(V2V): 0.91625
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.22337 Mbps
+Sum V2I AoI: 4.862
+Pr(V2V): 0.9354
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.13424 Mbps
+Sum V2I AoI: 5.1436
+Pr(V2V): 0.9205
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.24721 Mbps
+Sum V2I AoI: 4.9882
+Pr(V2V): 0.92495
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.12689 Mbps
+Sum V2I AoI: 5.109
+Pr(V2V): 0.92105
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.86361 Mbps
+Sum V2I AoI: 5.218000000000001
+Pr(V2V): 0.91215
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.9159 Mbps
+Sum V2I AoI: 5.0112
+Pr(V2V): 0.9174
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.13121 Mbps
+Sum V2I AoI: 5.037000000000001
+Pr(V2V): 0.92015
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.67961 Mbps
+Sum V2I AoI: 5.2262
+Pr(V2V): 0.90805
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.10333 Mbps
+Sum V2I AoI: 4.946400000000001
+Pr(V2V): 0.9216
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.15587 Mbps
+Sum V2I AoI: 5.0564
+Pr(V2V): 0.9231
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.04025 Mbps
+Sum V2I AoI: 5.2286
+Pr(V2V): 0.919
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.2552 Mbps
+Sum V2I AoI: 4.8682
+Pr(V2V): 0.9357
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.26463 Mbps
+Sum V2I AoI: 4.853400000000001
+Pr(V2V): 0.9349
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.26192 Mbps
+Sum V2I AoI: 4.8592
+Pr(V2V): 0.93565
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.09136 Mbps
+Sum V2I AoI: 4.921
+Pr(V2V): 0.933
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.01997 Mbps
+Sum V2I AoI: 4.9128
+Pr(V2V): 0.931
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.88078 Mbps
+Sum V2I AoI: 5.0178
+Pr(V2V): 0.9273
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.29729 Mbps
+Sum V2I AoI: 4.8594
+Pr(V2V): 0.9366
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.73661 Mbps
+Sum V2I AoI: 4.9566
+Pr(V2V): 0.925
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.4964 Mbps
+Sum V2I AoI: 4.8922
+Pr(V2V): 0.9398
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.92085 Mbps
+Sum V2I AoI: 4.940200000000001
+Pr(V2V): 0.9283
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84708 Mbps
+Sum V2I AoI: 4.675199999999999
+Pr(V2V): 0.94425
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.99567 Mbps
+Sum V2I AoI: 4.667
+Pr(V2V): 0.94775
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.96732 Mbps
+Sum V2I AoI: 4.8378000000000005
+Pr(V2V): 0.94765
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.72817 Mbps
+Sum V2I AoI: 4.6404000000000005
+Pr(V2V): 0.94325
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84188 Mbps
+Sum V2I AoI: 4.761
+Pr(V2V): 0.9442
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.77786 Mbps
+Sum V2I AoI: 4.743799999999999
+Pr(V2V): 0.9424
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.82745 Mbps
+Sum V2I AoI: 4.6682
+Pr(V2V): 0.9444
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.952 Mbps
+Sum V2I AoI: 4.7766
+Pr(V2V): 0.947
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.73213 Mbps
+Sum V2I AoI: 4.711600000000001
+Pr(V2V): 0.9414
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.74243 Mbps
+Sum V2I AoI: 4.7004
+Pr(V2V): 0.94235
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.78928 Mbps
+Sum V2I AoI: 4.7568
+Pr(V2V): 0.94285
+-------- SAC, model/sac_model100------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.51711 Mbps
+Sum V2I AoI: 4.7620000000000005
+Pr(V2V): 0.94045
+-------- SAC, model/sac_model100------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.19161 Mbps
+Sum V2I AoI: 4.8152
+Pr(V2V): 0.9332
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.36575 Mbps
+Sum V2I AoI: 5.376000000000001
+Pr(V2V): 0.91483
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.70716 Mbps
+Sum V2I AoI: 5.217
+Pr(V2V): 0.91025
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.14061 Mbps
+Sum V2I AoI: 5.101333333333334
+Pr(V2V): 0.9165
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.63539 Mbps
+Sum V2I AoI: 5.213333333333333
+Pr(V2V): 0.927
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.81882 Mbps
+Sum V2I AoI: 4.628399999999999
+Pr(V2V): 0.94765
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.84293 Mbps
+Sum V2I AoI: 4.652200000000001
+Pr(V2V): 0.94877
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.76396 Mbps
+Sum V2I AoI: 4.5874999999999995
+Pr(V2V): 0.9496
+-------- SAC, model/sac_model20------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.9893 Mbps
+Sum V2I AoI: 4.4818
+Pr(V2V): 0.95355
+-------- SAC, model/sac_model40------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.94055 Mbps
+Sum V2I AoI: 4.6141
+Pr(V2V): 0.95135
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.48158 Mbps
+Sum V2I AoI: 4.6821
+Pr(V2V): 0.94095
+-------- SAC, model/sac_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.75247 Mbps
+Sum V2I AoI: 4.8633999999999995
+Pr(V2V): 0.9465
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.73047 Mbps
+Sum V2I AoI: 4.7906
+Pr(V2V): 0.9457
+-------- PPO------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.33033 Mbps
+Sum V2I AoI: 4.2286
+Pr(V2V): 0.96955
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.7613 Mbps
+Sum V2I AoI: 4.477
+Pr(V2V): 0.81095
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.5603 Mbps
+Sum V2I AoI: 4.849
+Pr(V2V): 0.942
+-------- no ris -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.34511 Mbps
+Sum V2I AoI: 4.1402
+Pr(V2V): 0.9512
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.71192 Mbps
+Sum V2I AoI: 4.8576
+Pr(V2V): 0.94455
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.49078 Mbps
+Sum V2I AoI: 4.497000000000001
+Pr(V2V): 0.8047
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.56009 Mbps
+Sum V2I AoI: 5.4464
+Pr(V2V): 0.72575
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.1173 Mbps
+Sum V2I AoI: 5.454400000000001
+Pr(V2V): 0.6665
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.40923 Mbps
+Sum V2I AoI: 5.4284
+Pr(V2V): 0.82465
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.51265 Mbps
+Sum V2I AoI: 4.8246
+Pr(V2V): 0.93915
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.51447 Mbps
+Sum V2I AoI: 4.9018
+Pr(V2V): 0.94135
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.67524 Mbps
+Sum V2I AoI: 7.022200000000001
+Pr(V2V): 0.9025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.62134 Mbps
+Sum V2I AoI: 6.54
+Pr(V2V): 0.90025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.76661 Mbps
+Sum V2I AoI: 4.314800000000001
+Pr(V2V): 0.8332
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.84286 Mbps
+Sum V2I AoI: 4.3332
+Pr(V2V): 0.80125
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.10419 Mbps
+Sum V2I AoI: 5.0766
+Pr(V2V): 0.93275
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.49631 Mbps
+Sum V2I AoI: 4.925000000000001
+Pr(V2V): 0.9424
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.88457 Mbps
+Sum V2I AoI: 4.3358
+Pr(V2V): 0.96885
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.28864 Mbps
+Sum V2I AoI: 4.262
+Pr(V2V): 0.97555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.48404 Mbps
+Sum V2I AoI: 4.9616
+Pr(V2V): 0.9419
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84332 Mbps
+Sum V2I AoI: 4.872
+Pr(V2V): 0.94635
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.79269 Mbps
+Sum V2I AoI: 4.9002
+Pr(V2V): 0.94705
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.38746 Mbps
+Sum V2I AoI: 4.8886
+Pr(V2V): 0.9382
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.60104 Mbps
+Sum V2I AoI: 4.7768
+Pr(V2V): 0.94295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84635 Mbps
+Sum V2I AoI: 4.9212
+Pr(V2V): 0.94685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.68022 Mbps
+Sum V2I AoI: 4.9368
+Pr(V2V): 0.9429
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.57023 Mbps
+Sum V2I AoI: 4.8308
+Pr(V2V): 0.9422
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.07542 Mbps
+Sum V2I AoI: 4.5289
+Pr(V2V): 0.95902
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.98871 Mbps
+Sum V2I AoI: 4.542199999999999
+Pr(V2V): 0.95522
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.59969 Mbps
+Sum V2I AoI: 4.859
+Pr(V2V): 0.94425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.60747 Mbps
+Sum V2I AoI: 4.892
+Pr(V2V): 0.9434
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.51733 Mbps
+Sum V2I AoI: 4.8957999999999995
+Pr(V2V): 0.94175
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.78378 Mbps
+Sum V2I AoI: 4.93
+Pr(V2V): 0.9446
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.77347 Mbps
+Sum V2I AoI: 4.885
+Pr(V2V): 0.9451
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.74104 Mbps
+Sum V2I AoI: 4.842
+Pr(V2V): 0.9443
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.88789 Mbps
+Sum V2I AoI: 4.9196
+Pr(V2V): 0.949
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84181 Mbps
+Sum V2I AoI: 4.958600000000001
+Pr(V2V): 0.94605
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.85409 Mbps
+Sum V2I AoI: 4.911199999999999
+Pr(V2V): 0.94735
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.9119 Mbps
+Sum V2I AoI: 4.8834
+Pr(V2V): 0.9493
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.69708 Mbps
+Sum V2I AoI: 4.8668
+Pr(V2V): 0.9436
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.86561 Mbps
+Sum V2I AoI: 4.914
+Pr(V2V): 0.94685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.78224 Mbps
+Sum V2I AoI: 4.949199999999999
+Pr(V2V): 0.94505
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.8139 Mbps
+Sum V2I AoI: 4.9308
+Pr(V2V): 0.9449
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.83 Mbps
+Sum V2I AoI: 4.913600000000001
+Pr(V2V): 0.94715
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.8392 Mbps
+Sum V2I AoI: 4.9542
+Pr(V2V): 0.947
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.80456 Mbps
+Sum V2I AoI: 4.8984000000000005
+Pr(V2V): 0.94655
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.66507 Mbps
+Sum V2I AoI: 5.336333333333334
+Pr(V2V): 0.92925
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.54944 Mbps
+Sum V2I AoI: 5.313999999999999
+Pr(V2V): 0.92825
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.57254 Mbps
+Sum V2I AoI: 5.48
+Pr(V2V): 0.9285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.55564 Mbps
+Sum V2I AoI: 5.334666666666668
+Pr(V2V): 0.92908
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.15179 Mbps
+Sum V2I AoI: 5.317999999999999
+Pr(V2V): 0.92183
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.35042 Mbps
+Sum V2I AoI: 5.450333333333334
+Pr(V2V): 0.92417
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.36954 Mbps
+Sum V2I AoI: 5.469
+Pr(V2V): 0.92108
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.7014 Mbps
+Sum V2I AoI: 5.493
+Pr(V2V): 0.92717
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.44993 Mbps
+Sum V2I AoI: 5.406666666666667
+Pr(V2V): 0.92325
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.39889 Mbps
+Sum V2I AoI: 5.435
+Pr(V2V): 0.926
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.53997 Mbps
+Sum V2I AoI: 5.396666666666667
+Pr(V2V): 0.92867
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.12731 Mbps
+Sum V2I AoI: 5.5089999999999995
+Pr(V2V): 0.92083
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.32114 Mbps
+Sum V2I AoI: 5.414000000000001
+Pr(V2V): 0.92467
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.10226 Mbps
+Sum V2I AoI: 5.481666666666666
+Pr(V2V): 0.92017
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.55426 Mbps
+Sum V2I AoI: 6.276
+Pr(V2V): 0.71167
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.66327 Mbps
+Sum V2I AoI: 5.889333333333334
+Pr(V2V): 0.58608
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.09635 Mbps
+Sum V2I AoI: 6.103666666666667
+Pr(V2V): 0.61525
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.7807 Mbps
+Sum V2I AoI: 4.8553999999999995
+Pr(V2V): 0.9463
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.61442 Mbps
+Sum V2I AoI: 4.951999999999999
+Pr(V2V): 0.9446
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.82248 Mbps
+Sum V2I AoI: 4.878800000000001
+Pr(V2V): 0.94895
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.68771 Mbps
+Sum V2I AoI: 4.8834
+Pr(V2V): 0.9454
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.68842 Mbps
+Sum V2I AoI: 4.9286
+Pr(V2V): 0.9457
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84938 Mbps
+Sum V2I AoI: 4.897
+Pr(V2V): 0.94715
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.97637 Mbps
+Sum V2I AoI: 4.8876
+Pr(V2V): 0.95035
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.12068 Mbps
+Sum V2I AoI: 4.8622
+Pr(V2V): 0.95335
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.82234 Mbps
+Sum V2I AoI: 4.8994
+Pr(V2V): 0.9467
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.63107 Mbps
+Sum V2I AoI: 5.0188
+Pr(V2V): 0.9421
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.98617 Mbps
+Sum V2I AoI: 4.931000000000001
+Pr(V2V): 0.9509
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.92792 Mbps
+Sum V2I AoI: 5.383
+Pr(V2V): 0.94075
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.5765 Mbps
+Sum V2I AoI: 5.496
+Pr(V2V): 0.93685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.41059 Mbps
+Sum V2I AoI: 5.395
+Pr(V2V): 0.9332
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.92951 Mbps
+Sum V2I AoI: 5.635200000000001
+Pr(V2V): 0.8005
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.19659 Mbps
+Sum V2I AoI: 12.01
+Pr(V2V): 0.813
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.2021 Mbps
+Sum V2I AoI: 6.42
+Pr(V2V): 0.6689
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.13081 Mbps
+Sum V2I AoI: 6.215
+Pr(V2V): 0.73765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.58463 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.93615
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.44906 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.9334
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.65273 Mbps
+Sum V2I AoI: 5.37
+Pr(V2V): 0.936
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.72573 Mbps
+Sum V2I AoI: 5.42
+Pr(V2V): 0.93735
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.76318 Mbps
+Sum V2I AoI: 5.457
+Pr(V2V): 0.93795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.18835 Mbps
+Sum V2I AoI: 5.27
+Pr(V2V): 0.9487
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.12171 Mbps
+Sum V2I AoI: 5.36
+Pr(V2V): 0.9473
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.14543 Mbps
+Sum V2I AoI: 5.3
+Pr(V2V): 0.9482
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.14546 Mbps
+Sum V2I AoI: 6.215
+Pr(V2V): 0.73765
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.14546 Mbps
+Sum V2I AoI: 6.215
+Pr(V2V): 0.73765
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.14546 Mbps
+Sum V2I AoI: 6.215
+Pr(V2V): 0.73765
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.3622 Mbps
+Sum V2I AoI: 6.21
+Pr(V2V): 0.74875
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.13081 Mbps
+Sum V2I AoI: 6.215
+Pr(V2V): 0.73765
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.34084 Mbps
+Sum V2I AoI: 6.22
+Pr(V2V): 0.7485
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.34084 Mbps
+Sum V2I AoI: 6.22
+Pr(V2V): 0.7485
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.73212 Mbps
+Sum V2I AoI: 6.684
+Pr(V2V): 0.7679
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.18965 Mbps
+Sum V2I AoI: 7.332
+Pr(V2V): 0.78645
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.12732 Mbps
+Sum V2I AoI: 6.13
+Pr(V2V): 0.73395
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.91791 Mbps
+Sum V2I AoI: 5.9
+Pr(V2V): 0.6958
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.46608 Mbps
+Sum V2I AoI: 5.566
+Pr(V2V): 0.63725
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.56296 Mbps
+Sum V2I AoI: 5.605
+Pr(V2V): 0.64725
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.83166 Mbps
+Sum V2I AoI: 5.664
+Pr(V2V): 0.66215
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.83166 Mbps
+Sum V2I AoI: 5.664
+Pr(V2V): 0.66215
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.72466 Mbps
+Sum V2I AoI: 5.645
+Pr(V2V): 0.6656
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.6966 Mbps
+Sum V2I AoI: 5.715
+Pr(V2V): 0.6716
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.78322 Mbps
+Sum V2I AoI: 5.844
+Pr(V2V): 0.68675
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.91791 Mbps
+Sum V2I AoI: 5.9
+Pr(V2V): 0.6958
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.43797 Mbps
+Sum V2I AoI: 5.992
+Pr(V2V): 0.709
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.13352 Mbps
+Sum V2I AoI: 5.98
+Pr(V2V): 0.7325
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.12732 Mbps
+Sum V2I AoI: 6.13
+Pr(V2V): 0.73395
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.13081 Mbps
+Sum V2I AoI: 6.215
+Pr(V2V): 0.73765
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.34084 Mbps
+Sum V2I AoI: 6.22
+Pr(V2V): 0.7485
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.34084 Mbps
+Sum V2I AoI: 6.22
+Pr(V2V): 0.7485
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.18965 Mbps
+Sum V2I AoI: 7.332
+Pr(V2V): 0.78645
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.42047 Mbps
+Sum V2I AoI: 4.73
+Pr(V2V): 0.9709
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.28778 Mbps
+Sum V2I AoI: 4.63
+Pr(V2V): 0.9688
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.28601 Mbps
+Sum V2I AoI: 4.76
+Pr(V2V): 0.9688
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.87366 Mbps
+Sum V2I AoI: 4.918
+Pr(V2V): 0.9609
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.19067 Mbps
+Sum V2I AoI: 5.977
+Pr(V2V): 0.94895
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.08422 Mbps
+Sum V2I AoI: 5.258
+Pr(V2V): 0.9458
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.13685 Mbps
+Sum V2I AoI: 5.28
+Pr(V2V): 0.948
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.54782 Mbps
+Sum V2I AoI: 6.64
+Pr(V2V): 0.93765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.32837 Mbps
+Sum V2I AoI: 6.434
+Pr(V2V): 0.93265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.78913 Mbps
+Sum V2I AoI: 10.9
+Pr(V2V): 0.94295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.80015 Mbps
+Sum V2I AoI: 11.234
+Pr(V2V): 0.94335
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.77456 Mbps
+Sum V2I AoI: 11.08
+Pr(V2V): 0.9434
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.02282 Mbps
+Sum V2I AoI: 9.36
+Pr(V2V): 0.94555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.08002 Mbps
+Sum V2I AoI: 9.36
+Pr(V2V): 0.94655
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.19329 Mbps
+Sum V2I AoI: 9.3
+Pr(V2V): 0.94975
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.34545 Mbps
+Sum V2I AoI: 5.848
+Pr(V2V): 0.9463
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.47092 Mbps
+Sum V2I AoI: 5.91
+Pr(V2V): 0.949
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.49661 Mbps
+Sum V2I AoI: 5.754
+Pr(V2V): 0.95
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.66007 Mbps
+Sum V2I AoI: 5.484
+Pr(V2V): 0.9461
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.61766 Mbps
+Sum V2I AoI: 5.28
+Pr(V2V): 0.9451
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.58919 Mbps
+Sum V2I AoI: 5.26
+Pr(V2V): 0.94305
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.61408 Mbps
+Sum V2I AoI: 5.453
+Pr(V2V): 0.9373
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.60358 Mbps
+Sum V2I AoI: 5.45
+Pr(V2V): 0.9367
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.64708 Mbps
+Sum V2I AoI: 5.363
+Pr(V2V): 0.9378
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 65.85527 Mbps
+Sum V2I AoI: 6.008
+Pr(V2V): 0.91635
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 65.52036 Mbps
+Sum V2I AoI: 6.29
+Pr(V2V): 0.9101
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.87218 Mbps
+Sum V2I AoI: 4.51
+Pr(V2V): 0.8617
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 68.79499 Mbps
+Sum V2I AoI: 4.508
+Pr(V2V): 0.8613
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 69.04746 Mbps
+Sum V2I AoI: 4.457
+Pr(V2V): 0.8651
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 65.70714 Mbps
+Sum V2I AoI: 6.02
+Pr(V2V): 0.91435
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 65.5405 Mbps
+Sum V2I AoI: 6.23
+Pr(V2V): 0.90945
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.10765 Mbps
+Sum V2I AoI: 29.9
+Pr(V2V): 0.86645
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.63792 Mbps
+Sum V2I AoI: 34.5
+Pr(V2V): 0.84585
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.20182 Mbps
+Sum V2I AoI: 28.6
+Pr(V2V): 0.86955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.07074 Mbps
+Sum V2I AoI: 30.34
+Pr(V2V): 0.86055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.97462 Mbps
+Sum V2I AoI: 31.97
+Pr(V2V): 0.8558
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.80533 Mbps
+Sum V2I AoI: 5.438
+Pr(V2V): 0.95725
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.82776 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.95765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.83423 Mbps
+Sum V2I AoI: 5.664
+Pr(V2V): 0.9582
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.10109 Mbps
+Sum V2I AoI: 5.1
+Pr(V2V): 0.95575
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.13502 Mbps
+Sum V2I AoI: 5.098
+Pr(V2V): 0.95665
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.12798 Mbps
+Sum V2I AoI: 5.008
+Pr(V2V): 0.95615
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.19415 Mbps
+Sum V2I AoI: 5.223
+Pr(V2V): 0.94885
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.13614 Mbps
+Sum V2I AoI: 5.242
+Pr(V2V): 0.9476
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.1677 Mbps
+Sum V2I AoI: 5.258
+Pr(V2V): 0.94835
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 66.51861 Mbps
+Sum V2I AoI: 6.434
+Pr(V2V): 0.9298
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 70.02605 Mbps
+Sum V2I AoI: 4.31
+Pr(V2V): 0.88445
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 69.97074 Mbps
+Sum V2I AoI: 4.293
+Pr(V2V): 0.8834
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 70.01844 Mbps
+Sum V2I AoI: 4.324
+Pr(V2V): 0.8846
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.41285 Mbps
+Sum V2I AoI: 5.355
+Pr(V2V): 0.9581
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.37114 Mbps
+Sum V2I AoI: 5.152
+Pr(V2V): 0.95785
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.39941 Mbps
+Sum V2I AoI: 5.2
+Pr(V2V): 0.9579
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.83703 Mbps
+Sum V2I AoI: 5.13
+Pr(V2V): 0.9561
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.89498 Mbps
+Sum V2I AoI: 5.246
+Pr(V2V): 0.9572
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.85708 Mbps
+Sum V2I AoI: 5.02
+Pr(V2V): 0.9558
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.36738 Mbps
+Sum V2I AoI: 5.13
+Pr(V2V): 0.9545
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.42903 Mbps
+Sum V2I AoI: 5.3
+Pr(V2V): 0.9564
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.35875 Mbps
+Sum V2I AoI: 5.016
+Pr(V2V): 0.9553
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.77263 Mbps
+Sum V2I AoI: 5.11
+Pr(V2V): 0.9515
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.79412 Mbps
+Sum V2I AoI: 5.164
+Pr(V2V): 0.95185
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.77387 Mbps
+Sum V2I AoI: 5.145
+Pr(V2V): 0.95205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.14664 Mbps
+Sum V2I AoI: 5.297
+Pr(V2V): 0.9483
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.118 Mbps
+Sum V2I AoI: 5.746
+Pr(V2V): 0.94735
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.16896 Mbps
+Sum V2I AoI: 5.242
+Pr(V2V): 0.9481
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.33632 Mbps
+Sum V2I AoI: 5.613
+Pr(V2V): 0.94135
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.25195 Mbps
+Sum V2I AoI: 5.957
+Pr(V2V): 0.9565
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.20142 Mbps
+Sum V2I AoI: 5.848
+Pr(V2V): 0.9546
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.2103 Mbps
+Sum V2I AoI: 5.887
+Pr(V2V): 0.95585
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.03001 Mbps
+Sum V2I AoI: 33.7
+Pr(V2V): 0.84905
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.93761 Mbps
+Sum V2I AoI: 15.71
+Pr(V2V): 0.91485
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.7618 Mbps
+Sum V2I AoI: 15.02
+Pr(V2V): 0.9045
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.21029 Mbps
+Sum V2I AoI: 16.23
+Pr(V2V): 0.8843
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.05662 Mbps
+Sum V2I AoI: 16.88
+Pr(V2V): 0.8787
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.86567 Mbps
+Sum V2I AoI: 12.93
+Pr(V2V): 0.81205
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.0273 Mbps
+Sum V2I AoI: 10.984
+Pr(V2V): 0.82425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.50534 Mbps
+Sum V2I AoI: 6.32
+Pr(V2V): 0.9412
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.58086 Mbps
+Sum V2I AoI: 6.367
+Pr(V2V): 0.94295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.58664 Mbps
+Sum V2I AoI: 6.508
+Pr(V2V): 0.942
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.68858 Mbps
+Sum V2I AoI: 10.89
+Pr(V2V): 0.94085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.55568 Mbps
+Sum V2I AoI: 11.98
+Pr(V2V): 0.9367
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.48779 Mbps
+Sum V2I AoI: 11.34
+Pr(V2V): 0.93535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.07474 Mbps
+Sum V2I AoI: 10.586
+Pr(V2V): 0.94005
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.15628 Mbps
+Sum V2I AoI: 10.39
+Pr(V2V): 0.94195
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.0499 Mbps
+Sum V2I AoI: 10.99
+Pr(V2V): 0.93845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.61741 Mbps
+Sum V2I AoI: 9.58
+Pr(V2V): 0.94285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.5261 Mbps
+Sum V2I AoI: 9.8
+Pr(V2V): 0.9417
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.31088 Mbps
+Sum V2I AoI: 9.96
+Pr(V2V): 0.93625
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.02911 Mbps
+Sum V2I AoI: 9.41
+Pr(V2V): 0.9405
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.5483 Mbps
+Sum V2I AoI: 6.48
+Pr(V2V): 0.94055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.64947 Mbps
+Sum V2I AoI: 6.37
+Pr(V2V): 0.9433
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.59496 Mbps
+Sum V2I AoI: 6.324
+Pr(V2V): 0.9431
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.16872 Mbps
+Sum V2I AoI: 9.28
+Pr(V2V): 0.9438
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.97121 Mbps
+Sum V2I AoI: 9.47
+Pr(V2V): 0.9383
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.57969 Mbps
+Sum V2I AoI: 6.28
+Pr(V2V): 0.9425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.03178 Mbps
+Sum V2I AoI: 6.203
+Pr(V2V): 0.94
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.09941 Mbps
+Sum V2I AoI: 5.992
+Pr(V2V): 0.94035
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.12358 Mbps
+Sum V2I AoI: 6.336
+Pr(V2V): 0.941
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.42279 Mbps
+Sum V2I AoI: 5.707
+Pr(V2V): 0.93855
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.71932 Mbps
+Sum V2I AoI: 5.637
+Pr(V2V): 0.94425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.57999 Mbps
+Sum V2I AoI: 5.68
+Pr(V2V): 0.9404
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.02964 Mbps
+Sum V2I AoI: 5.523
+Pr(V2V): 0.9393
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.18993 Mbps
+Sum V2I AoI: 5.56
+Pr(V2V): 0.94265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.98599 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.93795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.5638 Mbps
+Sum V2I AoI: 5.715
+Pr(V2V): 0.939
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.59556 Mbps
+Sum V2I AoI: 5.418
+Pr(V2V): 0.9394
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.40339 Mbps
+Sum V2I AoI: 5.61
+Pr(V2V): 0.9346
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.42123 Mbps
+Sum V2I AoI: 5.58
+Pr(V2V): 0.9354
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.88626 Mbps
+Sum V2I AoI: 5.523
+Pr(V2V): 0.93495
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.82247 Mbps
+Sum V2I AoI: 5.56
+Pr(V2V): 0.9324
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.88101 Mbps
+Sum V2I AoI: 5.67
+Pr(V2V): 0.9343
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.86339 Mbps
+Sum V2I AoI: 5.67
+Pr(V2V): 0.9328
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.80435 Mbps
+Sum V2I AoI: 5.69
+Pr(V2V): 0.9333
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.74173 Mbps
+Sum V2I AoI: 6.277
+Pr(V2V): 0.93015
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.64108 Mbps
+Sum V2I AoI: 5.785
+Pr(V2V): 0.92685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.80789 Mbps
+Sum V2I AoI: 5.695
+Pr(V2V): 0.9329
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.94538 Mbps
+Sum V2I AoI: 5.934
+Pr(V2V): 0.92325
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.1392 Mbps
+Sum V2I AoI: 5.707
+Pr(V2V): 0.92905
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.13547 Mbps
+Sum V2I AoI: 5.668
+Pr(V2V): 0.92845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.06222 Mbps
+Sum V2I AoI: 5.695
+Pr(V2V): 0.92655
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.11248 Mbps
+Sum V2I AoI: 5.77
+Pr(V2V): 0.92765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.24101 Mbps
+Sum V2I AoI: 5.773
+Pr(V2V): 0.93125
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.20557 Mbps
+Sum V2I AoI: 5.89
+Pr(V2V): 0.9298
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.26555 Mbps
+Sum V2I AoI: 5.613
+Pr(V2V): 0.9304
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.84882 Mbps
+Sum V2I AoI: 5.582
+Pr(V2V): 0.94295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.12419 Mbps
+Sum V2I AoI: 5.793
+Pr(V2V): 0.92755
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.93777 Mbps
+Sum V2I AoI: 5.69
+Pr(V2V): 0.92505
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.21834 Mbps
+Sum V2I AoI: 6.246
+Pr(V2V): 0.9309
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.08402 Mbps
+Sum V2I AoI: 5.875
+Pr(V2V): 0.927
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.12254 Mbps
+Sum V2I AoI: 5.664
+Pr(V2V): 0.92905
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.08533 Mbps
+Sum V2I AoI: 5.598
+Pr(V2V): 0.927
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.032 Mbps
+Sum V2I AoI: 5.707
+Pr(V2V): 0.92725
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.18239 Mbps
+Sum V2I AoI: 5.848
+Pr(V2V): 0.9294
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.0903 Mbps
+Sum V2I AoI: 5.723
+Pr(V2V): 0.92795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.77737 Mbps
+Sum V2I AoI: 5.688
+Pr(V2V): 0.94185
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.83198 Mbps
+Sum V2I AoI: 5.55
+Pr(V2V): 0.9429
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.82729 Mbps
+Sum V2I AoI: 5.586
+Pr(V2V): 0.94235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.52991 Mbps
+Sum V2I AoI: 5.4
+Pr(V2V): 0.9478
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.41925 Mbps
+Sum V2I AoI: 5.4
+Pr(V2V): 0.94595
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.51067 Mbps
+Sum V2I AoI: 5.383
+Pr(V2V): 0.9481
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.10064 Mbps
+Sum V2I AoI: 5.285
+Pr(V2V): 0.95035
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.1192 Mbps
+Sum V2I AoI: 5.57
+Pr(V2V): 0.95075
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.02999 Mbps
+Sum V2I AoI: 5.344
+Pr(V2V): 0.94905
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.99473 Mbps
+Sum V2I AoI: 5.297
+Pr(V2V): 0.94825
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.48905 Mbps
+Sum V2I AoI: 5.43
+Pr(V2V): 0.94965
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.56883 Mbps
+Sum V2I AoI: 5.332
+Pr(V2V): 0.9507
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.61906 Mbps
+Sum V2I AoI: 5.27
+Pr(V2V): 0.95295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.55433 Mbps
+Sum V2I AoI: 5.406
+Pr(V2V): 0.95015
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.02253 Mbps
+Sum V2I AoI: 5.66
+Pr(V2V): 0.95085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.09245 Mbps
+Sum V2I AoI: 5.555
+Pr(V2V): 0.95325
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.07192 Mbps
+Sum V2I AoI: 5.367
+Pr(V2V): 0.95285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.05987 Mbps
+Sum V2I AoI: 5.34
+Pr(V2V): 0.95275
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.17267 Mbps
+Sum V2I AoI: 5.46
+Pr(V2V): 0.9546
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.49637 Mbps
+Sum V2I AoI: 5.617
+Pr(V2V): 0.95125
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.5364 Mbps
+Sum V2I AoI: 6.17
+Pr(V2V): 0.95235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.54196 Mbps
+Sum V2I AoI: 5.63
+Pr(V2V): 0.95235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.52689 Mbps
+Sum V2I AoI: 5.67
+Pr(V2V): 0.9511
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.0065 Mbps
+Sum V2I AoI: 6.043
+Pr(V2V): 0.95235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.04088 Mbps
+Sum V2I AoI: 6.047
+Pr(V2V): 0.95265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.00674 Mbps
+Sum V2I AoI: 6.305
+Pr(V2V): 0.9521
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.97644 Mbps
+Sum V2I AoI: 6.395
+Pr(V2V): 0.95055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.40259 Mbps
+Sum V2I AoI: 38.2
+Pr(V2V): 0.8223
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.13195 Mbps
+Sum V2I AoI: 39.53
+Pr(V2V): 0.8148
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.34772 Mbps
+Sum V2I AoI: 37.78
+Pr(V2V): 0.82575
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.57053 Mbps
+Sum V2I AoI: 35.7
+Pr(V2V): 0.82725
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.21887 Mbps
+Sum V2I AoI: 34.56
+Pr(V2V): 0.8344
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.25392 Mbps
+Sum V2I AoI: 34.9
+Pr(V2V): 0.83285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.29782 Mbps
+Sum V2I AoI: 34.72
+Pr(V2V): 0.8395
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.85055 Mbps
+Sum V2I AoI: 35.25
+Pr(V2V): 0.83605
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.69771 Mbps
+Sum V2I AoI: 37.25
+Pr(V2V): 0.82925
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.53359 Mbps
+Sum V2I AoI: 38.62
+Pr(V2V): 0.8192
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.15163 Mbps
+Sum V2I AoI: 27.8
+Pr(V2V): 0.8685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.61256 Mbps
+Sum V2I AoI: 33.06
+Pr(V2V): 0.8436
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.15414 Mbps
+Sum V2I AoI: 12.45
+Pr(V2V): 0.8209
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.26856 Mbps
+Sum V2I AoI: 17.67
+Pr(V2V): 0.89765
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.40739 Mbps
+Sum V2I AoI: 17.7
+Pr(V2V): 0.90405
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.26164 Mbps
+Sum V2I AoI: 16.73
+Pr(V2V): 0.8979
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.70806 Mbps
+Sum V2I AoI: 16.1
+Pr(V2V): 0.9051
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.7739 Mbps
+Sum V2I AoI: 16.33
+Pr(V2V): 0.89975
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.71889 Mbps
+Sum V2I AoI: 16.72
+Pr(V2V): 0.90025
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.88051 Mbps
+Sum V2I AoI: 17.75
+Pr(V2V): 0.8868
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.05918 Mbps
+Sum V2I AoI: 15.59
+Pr(V2V): 0.8983
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.08805 Mbps
+Sum V2I AoI: 15.695
+Pr(V2V): 0.89935
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.01609 Mbps
+Sum V2I AoI: 16.11
+Pr(V2V): 0.8949
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.96151 Mbps
+Sum V2I AoI: 17.03
+Pr(V2V): 0.86675
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.22211 Mbps
+Sum V2I AoI: 15.66
+Pr(V2V): 0.88965
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.28023 Mbps
+Sum V2I AoI: 16.9
+Pr(V2V): 0.88855
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.27694 Mbps
+Sum V2I AoI: 16.02
+Pr(V2V): 0.8899
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.43383 Mbps
+Sum V2I AoI: 16.08
+Pr(V2V): 0.89405
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.70694 Mbps
+Sum V2I AoI: 14.7
+Pr(V2V): 0.88155
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.99134 Mbps
+Sum V2I AoI: 13.22
+Pr(V2V): 0.8967
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.66037 Mbps
+Sum V2I AoI: 13.28
+Pr(V2V): 0.8824
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.09951 Mbps
+Sum V2I AoI: 13.305
+Pr(V2V): 0.88175
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.73553 Mbps
+Sum V2I AoI: 13.57
+Pr(V2V): 0.8708
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.84346 Mbps
+Sum V2I AoI: 15.12
+Pr(V2V): 0.87015
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.74556 Mbps
+Sum V2I AoI: 15.305
+Pr(V2V): 0.8677
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.17308 Mbps
+Sum V2I AoI: 13.83
+Pr(V2V): 0.88795
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.24815 Mbps
+Sum V2I AoI: 12.914
+Pr(V2V): 0.8691
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.85835 Mbps
+Sum V2I AoI: 12.805
+Pr(V2V): 0.8563
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.1283 Mbps
+Sum V2I AoI: 13.96
+Pr(V2V): 0.86965
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.04885 Mbps
+Sum V2I AoI: 14.35
+Pr(V2V): 0.86295
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.35968 Mbps
+Sum V2I AoI: 13.27
+Pr(V2V): 0.8782
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.07198 Mbps
+Sum V2I AoI: 15.43
+Pr(V2V): 0.86285
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.15153 Mbps
+Sum V2I AoI: 13.164
+Pr(V2V): 0.86805
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.27977 Mbps
+Sum V2I AoI: 13.195
+Pr(V2V): 0.86115
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.2144 Mbps
+Sum V2I AoI: 14.0
+Pr(V2V): 0.8579
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.30332 Mbps
+Sum V2I AoI: 13.61
+Pr(V2V): 0.85735
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.21984 Mbps
+Sum V2I AoI: 14.93
+Pr(V2V): 0.85625
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.37925 Mbps
+Sum V2I AoI: 13.82
+Pr(V2V): 0.86185
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.07012 Mbps
+Sum V2I AoI: 14.67
+Pr(V2V): 0.8621
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.13021 Mbps
+Sum V2I AoI: 15.305
+Pr(V2V): 0.88235
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.35813 Mbps
+Sum V2I AoI: 15.65
+Pr(V2V): 0.86955
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.40546 Mbps
+Sum V2I AoI: 17.02
+Pr(V2V): 0.89355
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.34458 Mbps
+Sum V2I AoI: 16.39
+Pr(V2V): 0.89105
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.23822 Mbps
+Sum V2I AoI: 16.27
+Pr(V2V): 0.8829
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.92663 Mbps
+Sum V2I AoI: 16.11
+Pr(V2V): 0.88855
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.80593 Mbps
+Sum V2I AoI: 17.53
+Pr(V2V): 0.8893
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.10238 Mbps
+Sum V2I AoI: 15.21
+Pr(V2V): 0.89655
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.97224 Mbps
+Sum V2I AoI: 16.67
+Pr(V2V): 0.8939
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.11767 Mbps
+Sum V2I AoI: 16.83
+Pr(V2V): 0.8981
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.67356 Mbps
+Sum V2I AoI: 16.45
+Pr(V2V): 0.89855
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.5232 Mbps
+Sum V2I AoI: 16.47
+Pr(V2V): 0.89195
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.45573 Mbps
+Sum V2I AoI: 13.836
+Pr(V2V): 0.96435
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.61436 Mbps
+Sum V2I AoI: 21.83
+Pr(V2V): 0.8958
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.13687 Mbps
+Sum V2I AoI: 20.61
+Pr(V2V): 0.93605
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 25.50578 Mbps
+Sum V2I AoI: 60.22
+Pr(V2V): 0.7579
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.67878 Mbps
+Sum V2I AoI: 5.633
+Pr(V2V): 0.93095
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.41061 Mbps
+Sum V2I AoI: 4.797
+Pr(V2V): 0.96415
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.2222 Mbps
+Sum V2I AoI: 5.332
+Pr(V2V): 0.8746
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.26167 Mbps
+Sum V2I AoI: 24.92
+Pr(V2V): 0.3551
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.39363 Mbps
+Sum V2I AoI: 5.29
+Pr(V2V): 0.92745
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.74659 Mbps
+Sum V2I AoI: 4.855
+Pr(V2V): 0.96995
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.87636 Mbps
+Sum V2I AoI: 5.207
+Pr(V2V): 0.89885
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.293 Mbps
+Sum V2I AoI: 7.438
+Pr(V2V): 0.45035
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.74421 Mbps
+Sum V2I AoI: 8.98
+Pr(V2V): 0.8438
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.38253 Mbps
+Sum V2I AoI: 10.68
+Pr(V2V): 0.8301
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.27784 Mbps
+Sum V2I AoI: 14.95
+Pr(V2V): 0.9115
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.22717 Mbps
+Sum V2I AoI: 13.78
+Pr(V2V): 0.91205
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.25042 Mbps
+Sum V2I AoI: 15.03
+Pr(V2V): 0.9104
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.24746 Mbps
+Sum V2I AoI: 14.76
+Pr(V2V): 0.90895
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.36861 Mbps
+Sum V2I AoI: 14.0
+Pr(V2V): 0.91475
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.62898 Mbps
+Sum V2I AoI: 13.25
+Pr(V2V): 0.90885
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.71649 Mbps
+Sum V2I AoI: 12.73
+Pr(V2V): 0.91365
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.58069 Mbps
+Sum V2I AoI: 14.0
+Pr(V2V): 0.9038
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.56615 Mbps
+Sum V2I AoI: 14.195
+Pr(V2V): 0.9071
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.56522 Mbps
+Sum V2I AoI: 13.375
+Pr(V2V): 0.90515
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.61948 Mbps
+Sum V2I AoI: 13.79
+Pr(V2V): 0.9091
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.9537 Mbps
+Sum V2I AoI: 12.67
+Pr(V2V): 0.90495
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.14111 Mbps
+Sum V2I AoI: 12.52
+Pr(V2V): 0.91225
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.84914 Mbps
+Sum V2I AoI: 12.15
+Pr(V2V): 0.9002
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.73366 Mbps
+Sum V2I AoI: 13.83
+Pr(V2V): 0.89755
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.82272 Mbps
+Sum V2I AoI: 12.83
+Pr(V2V): 0.89915
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.38054 Mbps
+Sum V2I AoI: 12.6
+Pr(V2V): 0.9007
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.17952 Mbps
+Sum V2I AoI: 11.805
+Pr(V2V): 0.8951
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.05342 Mbps
+Sum V2I AoI: 12.39
+Pr(V2V): 0.88955
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.1524 Mbps
+Sum V2I AoI: 13.08
+Pr(V2V): 0.89575
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.17505 Mbps
+Sum V2I AoI: 12.1
+Pr(V2V): 0.8988
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.46919 Mbps
+Sum V2I AoI: 10.82
+Pr(V2V): 0.8943
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.16488 Mbps
+Sum V2I AoI: 12.16
+Pr(V2V): 0.8822
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.59872 Mbps
+Sum V2I AoI: 12.195
+Pr(V2V): 0.89225
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.47057 Mbps
+Sum V2I AoI: 11.73
+Pr(V2V): 0.891
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.59341 Mbps
+Sum V2I AoI: 11.07
+Pr(V2V): 0.8965
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.72863 Mbps
+Sum V2I AoI: 10.46
+Pr(V2V): 0.88345
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.87424 Mbps
+Sum V2I AoI: 11.85
+Pr(V2V): 0.88815
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.70569 Mbps
+Sum V2I AoI: 10.75
+Pr(V2V): 0.88485
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.90561 Mbps
+Sum V2I AoI: 10.68
+Pr(V2V): 0.89065
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.75217 Mbps
+Sum V2I AoI: 11.484
+Pr(V2V): 0.88445
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.09902 Mbps
+Sum V2I AoI: 9.79
+Pr(V2V): 0.8834
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.83156 Mbps
+Sum V2I AoI: 10.41
+Pr(V2V): 0.87415
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.18695 Mbps
+Sum V2I AoI: 10.63
+Pr(V2V): 0.8878
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.89158 Mbps
+Sum V2I AoI: 10.086
+Pr(V2V): 0.87855
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.21776 Mbps
+Sum V2I AoI: 10.99
+Pr(V2V): 0.88425
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.95843 Mbps
+Sum V2I AoI: 10.16
+Pr(V2V): 0.8656
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.09836 Mbps
+Sum V2I AoI: 10.2
+Pr(V2V): 0.8669
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.3118 Mbps
+Sum V2I AoI: 9.53
+Pr(V2V): 0.8766
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.90148 Mbps
+Sum V2I AoI: 10.29
+Pr(V2V): 0.86475
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.98723 Mbps
+Sum V2I AoI: 10.195
+Pr(V2V): 0.8623
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.8819 Mbps
+Sum V2I AoI: 10.09
+Pr(V2V): 0.8498
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.87506 Mbps
+Sum V2I AoI: 9.34
+Pr(V2V): 0.8444
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.23755 Mbps
+Sum V2I AoI: 9.375
+Pr(V2V): 0.8573
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.95861 Mbps
+Sum V2I AoI: 9.836
+Pr(V2V): 0.84935
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.07308 Mbps
+Sum V2I AoI: 9.35
+Pr(V2V): 0.84815
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.20685 Mbps
+Sum V2I AoI: 9.58
+Pr(V2V): 0.8451
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.77106 Mbps
+Sum V2I AoI: 9.06
+Pr(V2V): 0.83125
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.34262 Mbps
+Sum V2I AoI: 9.58
+Pr(V2V): 0.8482
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.43026 Mbps
+Sum V2I AoI: 9.664
+Pr(V2V): 0.84675
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.06618 Mbps
+Sum V2I AoI: 9.22
+Pr(V2V): 0.84015
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.16182 Mbps
+Sum V2I AoI: 9.43
+Pr(V2V): 0.8258
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.21336 Mbps
+Sum V2I AoI: 9.54
+Pr(V2V): 0.82785
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.44497 Mbps
+Sum V2I AoI: 8.89
+Pr(V2V): 0.83255
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.3909 Mbps
+Sum V2I AoI: 9.19
+Pr(V2V): 0.8292
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.50564 Mbps
+Sum V2I AoI: 8.67
+Pr(V2V): 0.83665
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 30.6432 Mbps
+Sum V2I AoI: 25.2
+Pr(V2V): 0.78315
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 30.6432 Mbps
+Sum V2I AoI: 25.2
+Pr(V2V): 0.78315
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 30.6432 Mbps
+Sum V2I AoI: 25.2
+Pr(V2V): 0.78315
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 30.6432 Mbps
+Sum V2I AoI: 25.2
+Pr(V2V): 0.78315
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.79261 Mbps
+Sum V2I AoI: 25.11
+Pr(V2V): 0.7714
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.79261 Mbps
+Sum V2I AoI: 25.11
+Pr(V2V): 0.7714
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.81082 Mbps
+Sum V2I AoI: 24.73
+Pr(V2V): 0.76255
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.81082 Mbps
+Sum V2I AoI: 24.73
+Pr(V2V): 0.76255
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.58715 Mbps
+Sum V2I AoI: 24.61
+Pr(V2V): 0.7433
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.58715 Mbps
+Sum V2I AoI: 24.61
+Pr(V2V): 0.7433
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.26486 Mbps
+Sum V2I AoI: 25.56
+Pr(V2V): 0.71715
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.26486 Mbps
+Sum V2I AoI: 25.56
+Pr(V2V): 0.71715
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.72592 Mbps
+Sum V2I AoI: 20.84
+Pr(V2V): 0.71245
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.72592 Mbps
+Sum V2I AoI: 20.84
+Pr(V2V): 0.71245
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.24181 Mbps
+Sum V2I AoI: 18.45
+Pr(V2V): 0.67665
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.96078 Mbps
+Sum V2I AoI: 15.94
+Pr(V2V): 0.6508
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.22909 Mbps
+Sum V2I AoI: 11.36
+Pr(V2V): 0.6441
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.99056 Mbps
+Sum V2I AoI: 7.19
+Pr(V2V): 0.6159
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.50374 Mbps
+Sum V2I AoI: 5.89
+Pr(V2V): 0.58235
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.50374 Mbps
+Sum V2I AoI: 5.89
+Pr(V2V): 0.58235
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.99313 Mbps
+Sum V2I AoI: 24.16
+Pr(V2V): 0.82975
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.99313 Mbps
+Sum V2I AoI: 24.16
+Pr(V2V): 0.82975
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.05772 Mbps
+Sum V2I AoI: 25.2
+Pr(V2V): 0.8222
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.05772 Mbps
+Sum V2I AoI: 25.2
+Pr(V2V): 0.8222
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.67212 Mbps
+Sum V2I AoI: 25.47
+Pr(V2V): 0.7996
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.67212 Mbps
+Sum V2I AoI: 25.47
+Pr(V2V): 0.7996
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.6488 Mbps
+Sum V2I AoI: 23.31
+Pr(V2V): 0.7944
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.73706 Mbps
+Sum V2I AoI: 12.86
+Pr(V2V): 0.79515
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.73706 Mbps
+Sum V2I AoI: 12.86
+Pr(V2V): 0.79515
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.44858 Mbps
+Sum V2I AoI: 10.555
+Pr(V2V): 0.77795
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.39035 Mbps
+Sum V2I AoI: 9.68
+Pr(V2V): 0.76775
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.96297 Mbps
+Sum V2I AoI: 9.18
+Pr(V2V): 0.74545
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.3788 Mbps
+Sum V2I AoI: 8.01
+Pr(V2V): 0.7267
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.87291 Mbps
+Sum V2I AoI: 7.547
+Pr(V2V): 0.7016
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.21926 Mbps
+Sum V2I AoI: 7.03
+Pr(V2V): 0.68055
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.21926 Mbps
+Sum V2I AoI: 7.03
+Pr(V2V): 0.68055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.33535 Mbps
+Sum V2I AoI: 5.223
+Pr(V2V): 0.9239
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.83062 Mbps
+Sum V2I AoI: 5.24
+Pr(V2V): 0.92625
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.86957 Mbps
+Sum V2I AoI: 5.293
+Pr(V2V): 0.93935
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.24399 Mbps
+Sum V2I AoI: 5.477
+Pr(V2V): 0.9378
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.43052 Mbps
+Sum V2I AoI: 19.08
+Pr(V2V): 0.922
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.28016 Mbps
+Sum V2I AoI: 20.83
+Pr(V2V): 0.92025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.45048 Mbps
+Sum V2I AoI: 20.4
+Pr(V2V): 0.9235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.43926 Mbps
+Sum V2I AoI: 19.89
+Pr(V2V): 0.9225
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.46451 Mbps
+Sum V2I AoI: 19.67
+Pr(V2V): 0.92465
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.52239 Mbps
+Sum V2I AoI: 19.17
+Pr(V2V): 0.92535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.78362 Mbps
+Sum V2I AoI: 18.34
+Pr(V2V): 0.9223
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.80935 Mbps
+Sum V2I AoI: 18.39
+Pr(V2V): 0.9222
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.7933 Mbps
+Sum V2I AoI: 19.6
+Pr(V2V): 0.91925
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.91436 Mbps
+Sum V2I AoI: 17.67
+Pr(V2V): 0.92445
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.82413 Mbps
+Sum V2I AoI: 19.14
+Pr(V2V): 0.9195
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.04797 Mbps
+Sum V2I AoI: 21.22
+Pr(V2V): 0.91535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.07815 Mbps
+Sum V2I AoI: 20.4
+Pr(V2V): 0.9163
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.15771 Mbps
+Sum V2I AoI: 18.84
+Pr(V2V): 0.9188
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.32892 Mbps
+Sum V2I AoI: 18.77
+Pr(V2V): 0.91975
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.00867 Mbps
+Sum V2I AoI: 19.88
+Pr(V2V): 0.9135
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.0606 Mbps
+Sum V2I AoI: 19.94
+Pr(V2V): 0.914
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.18137 Mbps
+Sum V2I AoI: 19.2
+Pr(V2V): 0.91875
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.52699 Mbps
+Sum V2I AoI: 20.11
+Pr(V2V): 0.91475
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.44073 Mbps
+Sum V2I AoI: 20.69
+Pr(V2V): 0.9104
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.23033 Mbps
+Sum V2I AoI: 23.36
+Pr(V2V): 0.9055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.4005 Mbps
+Sum V2I AoI: 21.45
+Pr(V2V): 0.90965
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.72842 Mbps
+Sum V2I AoI: 18.64
+Pr(V2V): 0.918
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.13367 Mbps
+Sum V2I AoI: 25.45
+Pr(V2V): 0.90205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.56458 Mbps
+Sum V2I AoI: 20.03
+Pr(V2V): 0.9156
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.84344 Mbps
+Sum V2I AoI: 6.96
+Pr(V2V): 0.9426
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.80613 Mbps
+Sum V2I AoI: 7.062
+Pr(V2V): 0.94115
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.9156 Mbps
+Sum V2I AoI: 6.562
+Pr(V2V): 0.9442
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.86276 Mbps
+Sum V2I AoI: 6.977
+Pr(V2V): 0.9427
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.7935 Mbps
+Sum V2I AoI: 6.69
+Pr(V2V): 0.9417
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.36948 Mbps
+Sum V2I AoI: 5.98
+Pr(V2V): 0.94165
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.44001 Mbps
+Sum V2I AoI: 6.05
+Pr(V2V): 0.94535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.44639 Mbps
+Sum V2I AoI: 6.094
+Pr(V2V): 0.9445
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.27806 Mbps
+Sum V2I AoI: 5.78
+Pr(V2V): 0.94055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.35336 Mbps
+Sum V2I AoI: 6.094
+Pr(V2V): 0.94275
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.94706 Mbps
+Sum V2I AoI: 5.84
+Pr(V2V): 0.9445
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.77464 Mbps
+Sum V2I AoI: 5.84
+Pr(V2V): 0.9388
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.89888 Mbps
+Sum V2I AoI: 5.645
+Pr(V2V): 0.94235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.82709 Mbps
+Sum V2I AoI: 5.75
+Pr(V2V): 0.94135
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.9316 Mbps
+Sum V2I AoI: 5.715
+Pr(V2V): 0.94335
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.84756 Mbps
+Sum V2I AoI: 5.773
+Pr(V2V): 0.9407
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.34462 Mbps
+Sum V2I AoI: 5.277
+Pr(V2V): 0.942
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.13538 Mbps
+Sum V2I AoI: 5.44
+Pr(V2V): 0.9351
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.42839 Mbps
+Sum V2I AoI: 5.484
+Pr(V2V): 0.94255
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.35786 Mbps
+Sum V2I AoI: 5.33
+Pr(V2V): 0.94025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.22478 Mbps
+Sum V2I AoI: 5.47
+Pr(V2V): 0.93745
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62509 Mbps
+Sum V2I AoI: 5.402
+Pr(V2V): 0.9336
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.82705 Mbps
+Sum V2I AoI: 5.29
+Pr(V2V): 0.93835
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.65191 Mbps
+Sum V2I AoI: 5.46
+Pr(V2V): 0.93565
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.72394 Mbps
+Sum V2I AoI: 5.36
+Pr(V2V): 0.93565
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.66409 Mbps
+Sum V2I AoI: 5.555
+Pr(V2V): 0.93525
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.14111 Mbps
+Sum V2I AoI: 5.203
+Pr(V2V): 0.9317
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.1864 Mbps
+Sum V2I AoI: 5.5
+Pr(V2V): 0.93495
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.06543 Mbps
+Sum V2I AoI: 5.246
+Pr(V2V): 0.9318
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.23293 Mbps
+Sum V2I AoI: 5.242
+Pr(V2V): 0.9341
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.82663 Mbps
+Sum V2I AoI: 5.24
+Pr(V2V): 0.9272
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.30197 Mbps
+Sum V2I AoI: 5.09
+Pr(V2V): 0.9254
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.38126 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.92555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.58152 Mbps
+Sum V2I AoI: 5.367
+Pr(V2V): 0.93035
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.2336 Mbps
+Sum V2I AoI: 5.188
+Pr(V2V): 0.92365
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.42945 Mbps
+Sum V2I AoI: 5.31
+Pr(V2V): 0.92755
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.34653 Mbps
+Sum V2I AoI: 10.875
+Pr(V2V): 0.9472
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.7896 Mbps
+Sum V2I AoI: 5.82
+Pr(V2V): 0.92915
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.6088 Mbps
+Sum V2I AoI: 5.695
+Pr(V2V): 0.92515
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.90125 Mbps
+Sum V2I AoI: 6.535
+Pr(V2V): 0.9348
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.03743 Mbps
+Sum V2I AoI: 7.176
+Pr(V2V): 0.94075
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.53998 Mbps
+Sum V2I AoI: 5.668
+Pr(V2V): 0.92545
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.47867 Mbps
+Sum V2I AoI: 5.707
+Pr(V2V): 0.9233
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.46239 Mbps
+Sum V2I AoI: 5.46
+Pr(V2V): 0.90875
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.50465 Mbps
+Sum V2I AoI: 5.37
+Pr(V2V): 0.90935
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.35185 Mbps
+Sum V2I AoI: 5.543
+Pr(V2V): 0.9071
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.50759 Mbps
+Sum V2I AoI: 5.348
+Pr(V2V): 0.9101
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.57532 Mbps
+Sum V2I AoI: 5.832
+Pr(V2V): 0.92645
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.5968 Mbps
+Sum V2I AoI: 5.895
+Pr(V2V): 0.9262
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.01451 Mbps
+Sum V2I AoI: 6.02
+Pr(V2V): 0.90183
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.40764 Mbps
+Sum V2I AoI: 5.426
+Pr(V2V): 0.9079
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.37891 Mbps
+Sum V2I AoI: 5.535
+Pr(V2V): 0.90715
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.68465 Mbps
+Sum V2I AoI: 5.785
+Pr(V2V): 0.92955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.91363 Mbps
+Sum V2I AoI: 5.625
+Pr(V2V): 0.86985
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.79365 Mbps
+Sum V2I AoI: 5.695
+Pr(V2V): 0.872
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.247 Mbps
+Sum V2I AoI: 5.406
+Pr(V2V): 0.87345
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.67043 Mbps
+Sum V2I AoI: 5.258
+Pr(V2V): 0.91295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.52523 Mbps
+Sum V2I AoI: 5.402
+Pr(V2V): 0.90905
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.56563 Mbps
+Sum V2I AoI: 5.332
+Pr(V2V): 0.91085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.66321 Mbps
+Sum V2I AoI: 5.562
+Pr(V2V): 0.87215
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.11424 Mbps
+Sum V2I AoI: 5.906
+Pr(V2V): 0.80292
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.84383 Mbps
+Sum V2I AoI: 5.816
+Pr(V2V): 0.864
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.75194 Mbps
+Sum V2I AoI: 5.27
+Pr(V2V): 0.90945
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.66463 Mbps
+Sum V2I AoI: 5.37
+Pr(V2V): 0.90715
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.97406 Mbps
+Sum V2I AoI: 5.266
+Pr(V2V): 0.91345
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.38224 Mbps
+Sum V2I AoI: 5.414
+Pr(V2V): 0.90795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.50919 Mbps
+Sum V2I AoI: 5.406
+Pr(V2V): 0.9099
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.59521 Mbps
+Sum V2I AoI: 5.504
+Pr(V2V): 0.91175
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.80732 Mbps
+Sum V2I AoI: 5.242
+Pr(V2V): 0.9159
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.71167 Mbps
+Sum V2I AoI: 5.406
+Pr(V2V): 0.90805
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.75686 Mbps
+Sum V2I AoI: 5.324
+Pr(V2V): 0.90865
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.79917 Mbps
+Sum V2I AoI: 5.28
+Pr(V2V): 0.9091
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.70762 Mbps
+Sum V2I AoI: 5.42
+Pr(V2V): 0.90755
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.74977 Mbps
+Sum V2I AoI: 5.402
+Pr(V2V): 0.9103
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.47395 Mbps
+Sum V2I AoI: 5.387
+Pr(V2V): 0.90965
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.59573 Mbps
+Sum V2I AoI: 5.363
+Pr(V2V): 0.91105
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.49159 Mbps
+Sum V2I AoI: 5.36
+Pr(V2V): 0.9091
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.65948 Mbps
+Sum V2I AoI: 5.383
+Pr(V2V): 0.91245
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.60153 Mbps
+Sum V2I AoI: 5.3
+Pr(V2V): 0.91165
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.43646 Mbps
+Sum V2I AoI: 5.48
+Pr(V2V): 0.9073
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.55074 Mbps
+Sum V2I AoI: 5.395
+Pr(V2V): 0.91
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.48357 Mbps
+Sum V2I AoI: 5.258
+Pr(V2V): 0.90795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.57804 Mbps
+Sum V2I AoI: 5.36
+Pr(V2V): 0.9097
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.48161 Mbps
+Sum V2I AoI: 5.33
+Pr(V2V): 0.90785
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.44405 Mbps
+Sum V2I AoI: 5.254
+Pr(V2V): 0.90785
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.55988 Mbps
+Sum V2I AoI: 5.387
+Pr(V2V): 0.921
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.24514 Mbps
+Sum V2I AoI: 5.47
+Pr(V2V): 0.915
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.35897 Mbps
+Sum V2I AoI: 5.45
+Pr(V2V): 0.9167
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.38809 Mbps
+Sum V2I AoI: 5.434
+Pr(V2V): 0.91785
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.53208 Mbps
+Sum V2I AoI: 5.66
+Pr(V2V): 0.9198
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.62995 Mbps
+Sum V2I AoI: 14.914
+Pr(V2V): 0.93155
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.5723 Mbps
+Sum V2I AoI: 14.66
+Pr(V2V): 0.9306
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.63586 Mbps
+Sum V2I AoI: 15.8
+Pr(V2V): 0.9321
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.71005 Mbps
+Sum V2I AoI: 14.17
+Pr(V2V): 0.93285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.62792 Mbps
+Sum V2I AoI: 14.86
+Pr(V2V): 0.9327
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.6324 Mbps
+Sum V2I AoI: 14.3
+Pr(V2V): 0.93175
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.57029 Mbps
+Sum V2I AoI: 17.11
+Pr(V2V): 0.92635
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.62712 Mbps
+Sum V2I AoI: 15.91
+Pr(V2V): 0.92955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.56127 Mbps
+Sum V2I AoI: 16.3
+Pr(V2V): 0.9283
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.63409 Mbps
+Sum V2I AoI: 15.18
+Pr(V2V): 0.929
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.5181 Mbps
+Sum V2I AoI: 17.03
+Pr(V2V): 0.92535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.00831 Mbps
+Sum V2I AoI: 14.77
+Pr(V2V): 0.92695
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.96995 Mbps
+Sum V2I AoI: 14.39
+Pr(V2V): 0.92875
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.99616 Mbps
+Sum V2I AoI: 14.96
+Pr(V2V): 0.92835
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.00167 Mbps
+Sum V2I AoI: 14.94
+Pr(V2V): 0.92795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.97462 Mbps
+Sum V2I AoI: 14.57
+Pr(V2V): 0.92855
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.01104 Mbps
+Sum V2I AoI: 14.25
+Pr(V2V): 0.9295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.99816 Mbps
+Sum V2I AoI: 15.06
+Pr(V2V): 0.92845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.90369 Mbps
+Sum V2I AoI: 15.32
+Pr(V2V): 0.9261
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.9574 Mbps
+Sum V2I AoI: 15.35
+Pr(V2V): 0.9272
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.9054 Mbps
+Sum V2I AoI: 15.02
+Pr(V2V): 0.92595
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.91382 Mbps
+Sum V2I AoI: 15.44
+Pr(V2V): 0.9265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.93739 Mbps
+Sum V2I AoI: 15.914
+Pr(V2V): 0.92555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.98141 Mbps
+Sum V2I AoI: 15.086
+Pr(V2V): 0.9286
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.93853 Mbps
+Sum V2I AoI: 15.98
+Pr(V2V): 0.9244
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.91962 Mbps
+Sum V2I AoI: 16.33
+Pr(V2V): 0.9241
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.91312 Mbps
+Sum V2I AoI: 15.47
+Pr(V2V): 0.9228
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.31761 Mbps
+Sum V2I AoI: 15.72
+Pr(V2V): 0.9243
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.36296 Mbps
+Sum V2I AoI: 14.445
+Pr(V2V): 0.9262
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.35283 Mbps
+Sum V2I AoI: 15.164
+Pr(V2V): 0.9255
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.19315 Mbps
+Sum V2I AoI: 16.1
+Pr(V2V): 0.9202
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.22006 Mbps
+Sum V2I AoI: 15.484
+Pr(V2V): 0.92315
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.27627 Mbps
+Sum V2I AoI: 14.41
+Pr(V2V): 0.92395
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.21825 Mbps
+Sum V2I AoI: 15.41
+Pr(V2V): 0.9205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.28508 Mbps
+Sum V2I AoI: 15.06
+Pr(V2V): 0.9234
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.27467 Mbps
+Sum V2I AoI: 14.9
+Pr(V2V): 0.92355
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.55659 Mbps
+Sum V2I AoI: 14.67
+Pr(V2V): 0.92995
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.38807 Mbps
+Sum V2I AoI: 14.62
+Pr(V2V): 0.92705
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.3322 Mbps
+Sum V2I AoI: 14.34
+Pr(V2V): 0.92585
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.31376 Mbps
+Sum V2I AoI: 14.836
+Pr(V2V): 0.92385
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.60827 Mbps
+Sum V2I AoI: 15.47
+Pr(V2V): 0.91975
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.73215 Mbps
+Sum V2I AoI: 14.695
+Pr(V2V): 0.92275
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.71557 Mbps
+Sum V2I AoI: 15.21
+Pr(V2V): 0.92245
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.64276 Mbps
+Sum V2I AoI: 14.83
+Pr(V2V): 0.92065
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.5217 Mbps
+Sum V2I AoI: 15.31
+Pr(V2V): 0.91765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.71458 Mbps
+Sum V2I AoI: 14.625
+Pr(V2V): 0.9222
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.63384 Mbps
+Sum V2I AoI: 14.82
+Pr(V2V): 0.92025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.63862 Mbps
+Sum V2I AoI: 15.02
+Pr(V2V): 0.9201
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 43.73296 Mbps
+Sum V2I AoI: 14.3
+Pr(V2V): 0.92265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.68252 Mbps
+Sum V2I AoI: 14.67
+Pr(V2V): 0.9207
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.66525 Mbps
+Sum V2I AoI: 16.34
+Pr(V2V): 0.91725
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.63901 Mbps
+Sum V2I AoI: 14.77
+Pr(V2V): 0.9195
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.54669 Mbps
+Sum V2I AoI: 16.05
+Pr(V2V): 0.91685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.64322 Mbps
+Sum V2I AoI: 14.586
+Pr(V2V): 0.9203
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.51485 Mbps
+Sum V2I AoI: 7.67
+Pr(V2V): 0.93285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.57301 Mbps
+Sum V2I AoI: 7.727
+Pr(V2V): 0.9339
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.61273 Mbps
+Sum V2I AoI: 7.348
+Pr(V2V): 0.93505
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.49985 Mbps
+Sum V2I AoI: 7.63
+Pr(V2V): 0.93265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.41834 Mbps
+Sum V2I AoI: 7.89
+Pr(V2V): 0.93145
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.74217 Mbps
+Sum V2I AoI: 6.906
+Pr(V2V): 0.93875
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.57006 Mbps
+Sum V2I AoI: 7.28
+Pr(V2V): 0.9343
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.46032 Mbps
+Sum V2I AoI: 7.086
+Pr(V2V): 0.93245
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.69485 Mbps
+Sum V2I AoI: 7.195
+Pr(V2V): 0.93645
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.71933 Mbps
+Sum V2I AoI: 7.113
+Pr(V2V): 0.9376
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.76012 Mbps
+Sum V2I AoI: 7.13
+Pr(V2V): 0.9385
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.94932 Mbps
+Sum V2I AoI: 6.06
+Pr(V2V): 0.9314
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.03702 Mbps
+Sum V2I AoI: 6.785
+Pr(V2V): 0.9335
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.99624 Mbps
+Sum V2I AoI: 6.633
+Pr(V2V): 0.9334
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.98498 Mbps
+Sum V2I AoI: 6.797
+Pr(V2V): 0.93175
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.02036 Mbps
+Sum V2I AoI: 6.816
+Pr(V2V): 0.93275
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.01153 Mbps
+Sum V2I AoI: 6.43
+Pr(V2V): 0.93265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.99863 Mbps
+Sum V2I AoI: 6.78
+Pr(V2V): 0.93325
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.90995 Mbps
+Sum V2I AoI: 6.766
+Pr(V2V): 0.9315
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.95323 Mbps
+Sum V2I AoI: 6.754
+Pr(V2V): 0.9324
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.01941 Mbps
+Sum V2I AoI: 6.99
+Pr(V2V): 0.93315
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.86699 Mbps
+Sum V2I AoI: 6.98
+Pr(V2V): 0.93025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.3497 Mbps
+Sum V2I AoI: 6.133
+Pr(V2V): 0.92975
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.33281 Mbps
+Sum V2I AoI: 6.395
+Pr(V2V): 0.92975
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.38869 Mbps
+Sum V2I AoI: 6.363
+Pr(V2V): 0.93
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.51585 Mbps
+Sum V2I AoI: 6.03
+Pr(V2V): 0.9326
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.50751 Mbps
+Sum V2I AoI: 5.918
+Pr(V2V): 0.93295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.33076 Mbps
+Sum V2I AoI: 6.363
+Pr(V2V): 0.92865
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.39322 Mbps
+Sum V2I AoI: 6.168
+Pr(V2V): 0.92915
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.31488 Mbps
+Sum V2I AoI: 5.992
+Pr(V2V): 0.92765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.39939 Mbps
+Sum V2I AoI: 5.926
+Pr(V2V): 0.9301
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.68353 Mbps
+Sum V2I AoI: 6.1
+Pr(V2V): 0.9359
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.80737 Mbps
+Sum V2I AoI: 5.875
+Pr(V2V): 0.9283
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.82329 Mbps
+Sum V2I AoI: 5.68
+Pr(V2V): 0.92795
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.91835 Mbps
+Sum V2I AoI: 5.703
+Pr(V2V): 0.9296
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.74598 Mbps
+Sum V2I AoI: 5.938
+Pr(V2V): 0.92705
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.84073 Mbps
+Sum V2I AoI: 5.74
+Pr(V2V): 0.9282
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.66581 Mbps
+Sum V2I AoI: 5.836
+Pr(V2V): 0.92695
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.7397 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.9276
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.72781 Mbps
+Sum V2I AoI: 5.824
+Pr(V2V): 0.9267
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.74585 Mbps
+Sum V2I AoI: 5.77
+Pr(V2V): 0.92785
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.66084 Mbps
+Sum V2I AoI: 5.824
+Pr(V2V): 0.92575
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.00246 Mbps
+Sum V2I AoI: 5.484
+Pr(V2V): 0.9219
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.90726 Mbps
+Sum V2I AoI: 5.56
+Pr(V2V): 0.91955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.05668 Mbps
+Sum V2I AoI: 5.61
+Pr(V2V): 0.92255
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.1485 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.9237
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.34911 Mbps
+Sum V2I AoI: 5.594
+Pr(V2V): 0.9284
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.06283 Mbps
+Sum V2I AoI: 5.582
+Pr(V2V): 0.92205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.14096 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.9236
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.14585 Mbps
+Sum V2I AoI: 5.613
+Pr(V2V): 0.9226
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.15681 Mbps
+Sum V2I AoI: 5.34
+Pr(V2V): 0.92415
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.19758 Mbps
+Sum V2I AoI: 5.645
+Pr(V2V): 0.9254
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.10987 Mbps
+Sum V2I AoI: 5.52
+Pr(V2V): 0.9229
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.3721 Mbps
+Sum V2I AoI: 5.504
+Pr(V2V): 0.9173
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.27583 Mbps
+Sum V2I AoI: 5.53
+Pr(V2V): 0.9165
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.30496 Mbps
+Sum V2I AoI: 5.516
+Pr(V2V): 0.91625
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.4936 Mbps
+Sum V2I AoI: 5.355
+Pr(V2V): 0.9201
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.34116 Mbps
+Sum V2I AoI: 5.37
+Pr(V2V): 0.91765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.45184 Mbps
+Sum V2I AoI: 5.33
+Pr(V2V): 0.9177
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.41814 Mbps
+Sum V2I AoI: 5.324
+Pr(V2V): 0.91855
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.34282 Mbps
+Sum V2I AoI: 5.566
+Pr(V2V): 0.9166
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.46293 Mbps
+Sum V2I AoI: 5.336
+Pr(V2V): 0.9187
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.64618 Mbps
+Sum V2I AoI: 5.3
+Pr(V2V): 0.9203
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.5592 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.9104
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.50497 Mbps
+Sum V2I AoI: 5.34
+Pr(V2V): 0.9091
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.52155 Mbps
+Sum V2I AoI: 5.39
+Pr(V2V): 0.9092
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.50321 Mbps
+Sum V2I AoI: 5.32
+Pr(V2V): 0.9083
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.58592 Mbps
+Sum V2I AoI: 5.41
+Pr(V2V): 0.90955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.49717 Mbps
+Sum V2I AoI: 5.316
+Pr(V2V): 0.9078
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.5357 Mbps
+Sum V2I AoI: 5.453
+Pr(V2V): 0.91
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.39881 Mbps
+Sum V2I AoI: 5.324
+Pr(V2V): 0.90815
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.53278 Mbps
+Sum V2I AoI: 5.375
+Pr(V2V): 0.9102
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.49926 Mbps
+Sum V2I AoI: 5.39
+Pr(V2V): 0.91035
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.41547 Mbps
+Sum V2I AoI: 5.332
+Pr(V2V): 0.9085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.42233 Mbps
+Sum V2I AoI: 5.293
+Pr(V2V): 0.9085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.46027 Mbps
+Sum V2I AoI: 5.395
+Pr(V2V): 0.9082
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.24089 Mbps
+Sum V2I AoI: 5.703
+Pr(V2V): 0.9202
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.38585 Mbps
+Sum V2I AoI: 5.477
+Pr(V2V): 0.92295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.13601 Mbps
+Sum V2I AoI: 5.605
+Pr(V2V): 0.91685
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.24155 Mbps
+Sum V2I AoI: 5.348
+Pr(V2V): 0.921
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.22256 Mbps
+Sum V2I AoI: 5.754
+Pr(V2V): 0.91955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.38354 Mbps
+Sum V2I AoI: 5.406
+Pr(V2V): 0.73695
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.29886 Mbps
+Sum V2I AoI: 5.633
+Pr(V2V): 0.73725
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.25293 Mbps
+Sum V2I AoI: 5.527
+Pr(V2V): 0.7367
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.48829 Mbps
+Sum V2I AoI: 5.574
+Pr(V2V): 0.74155
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.30055 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.7396
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.28617 Mbps
+Sum V2I AoI: 5.44
+Pr(V2V): 0.82615
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.1997 Mbps
+Sum V2I AoI: 5.438
+Pr(V2V): 0.82405
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.6364 Mbps
+Sum V2I AoI: 7.785
+Pr(V2V): 0.38635
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.18067 Mbps
+Sum V2I AoI: 5.41
+Pr(V2V): 0.82205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.12111 Mbps
+Sum V2I AoI: 5.49
+Pr(V2V): 0.8273
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.9674 Mbps
+Sum V2I AoI: 5.42
+Pr(V2V): 0.7362
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.75913 Mbps
+Sum V2I AoI: 5.3
+Pr(V2V): 0.91935
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.03158 Mbps
+Sum V2I AoI: 5.06
+Pr(V2V): 0.81765
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.42161 Mbps
+Sum V2I AoI: 8.92
+Pr(V2V): 0.6358
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.61292 Mbps
+Sum V2I AoI: 7.902
+Pr(V2V): 0.74665
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.92458 Mbps
+Sum V2I AoI: 7.777
+Pr(V2V): 0.75105
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.55241 Mbps
+Sum V2I AoI: 5.465
+Pr(V2V): 0.91095
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.04129 Mbps
+Sum V2I AoI: 6.445
+Pr(V2V): 0.77695
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.30028 Mbps
+Sum V2I AoI: 5.496
+Pr(V2V): 0.91895
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.3363 Mbps
+Sum V2I AoI: 5.64
+Pr(V2V): 0.92085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.19142 Mbps
+Sum V2I AoI: 5.71
+Pr(V2V): 0.9155
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.29517 Mbps
+Sum V2I AoI: 5.59
+Pr(V2V): 0.91925
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.20242 Mbps
+Sum V2I AoI: 5.484
+Pr(V2V): 0.9166
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.26434 Mbps
+Sum V2I AoI: 5.64
+Pr(V2V): 0.9192
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.73898 Mbps
+Sum V2I AoI: 5.332
+Pr(V2V): 0.9184
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.8939 Mbps
+Sum V2I AoI: 5.44
+Pr(V2V): 0.9205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.58426 Mbps
+Sum V2I AoI: 5.453
+Pr(V2V): 0.91345
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.74806 Mbps
+Sum V2I AoI: 5.47
+Pr(V2V): 0.9185
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.77935 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.91895
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.26329 Mbps
+Sum V2I AoI: 5.1
+Pr(V2V): 0.8215
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.56537 Mbps
+Sum V2I AoI: 5.12
+Pr(V2V): 0.8059
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.40276 Mbps
+Sum V2I AoI: 5.04
+Pr(V2V): 0.8308
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.98092 Mbps
+Sum V2I AoI: 5.566
+Pr(V2V): 0.73705
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.01332 Mbps
+Sum V2I AoI: 7.625
+Pr(V2V): 0.46425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.28647 Mbps
+Sum V2I AoI: 5.332
+Pr(V2V): 0.90615
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.51429 Mbps
+Sum V2I AoI: 5.387
+Pr(V2V): 0.90975
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.32858 Mbps
+Sum V2I AoI: 5.31
+Pr(V2V): 0.907
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.25175 Mbps
+Sum V2I AoI: 5.496
+Pr(V2V): 0.90515
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.32257 Mbps
+Sum V2I AoI: 5.516
+Pr(V2V): 0.90535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.49133 Mbps
+Sum V2I AoI: 4.816
+Pr(V2V): 0.67435
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.92194 Mbps
+Sum V2I AoI: 4.773
+Pr(V2V): 0.67955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.31759 Mbps
+Sum V2I AoI: 6.785
+Pr(V2V): 0.4676
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.34314 Mbps
+Sum V2I AoI: 8.97
+Pr(V2V): 0.5476
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.20653 Mbps
+Sum V2I AoI: 6.355
+Pr(V2V): 0.70835
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.71001 Mbps
+Sum V2I AoI: 9.016
+Pr(V2V): 0.4821
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.11967 Mbps
+Sum V2I AoI: 6.902
+Pr(V2V): 0.70155
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.55432 Mbps
+Sum V2I AoI: 6.344
+Pr(V2V): 0.8671
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.80878 Mbps
+Sum V2I AoI: 8.11
+Pr(V2V): 0.54985
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.3909 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.95365
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.40926 Mbps
+Sum V2I AoI: 5.4
+Pr(V2V): 0.92555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.54709 Mbps
+Sum V2I AoI: 6.855
+Pr(V2V): 0.8427
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.37742 Mbps
+Sum V2I AoI: 5.4
+Pr(V2V): 0.92265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.37925 Mbps
+Sum V2I AoI: 5.55
+Pr(V2V): 0.93535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.32687 Mbps
+Sum V2I AoI: 5.414
+Pr(V2V): 0.90735
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.42451 Mbps
+Sum V2I AoI: 4.85
+Pr(V2V): 0.20865
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.42451 Mbps
+Sum V2I AoI: 4.85
+Pr(V2V): 0.20865
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.10109 Mbps
+Sum V2I AoI: 5.4238
+Pr(V2V): 0.22245
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.79428 Mbps
+Sum V2I AoI: 6.0242
+Pr(V2V): 0.23125
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.79428 Mbps
+Sum V2I AoI: 6.0242
+Pr(V2V): 0.23125
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.48109 Mbps
+Sum V2I AoI: 6.2724
+Pr(V2V): 0.2359
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.75963 Mbps
+Sum V2I AoI: 6.528800000000001
+Pr(V2V): 0.25965
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.02851 Mbps
+Sum V2I AoI: 6.540200000000001
+Pr(V2V): 0.3426
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.64944 Mbps
+Sum V2I AoI: 6.441599999999999
+Pr(V2V): 0.44075
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 33.31898 Mbps
+Sum V2I AoI: 7.155999999999999
+Pr(V2V): 0.5168
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.4311 Mbps
+Sum V2I AoI: 7.075799999999999
+Pr(V2V): 0.56925
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 32.4311 Mbps
+Sum V2I AoI: 7.075799999999999
+Pr(V2V): 0.56925
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 31.26961 Mbps
+Sum V2I AoI: 7.0594
+Pr(V2V): 0.61535
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 31.26961 Mbps
+Sum V2I AoI: 7.0594
+Pr(V2V): 0.61535
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 29.48693 Mbps
+Sum V2I AoI: 7.3426
+Pr(V2V): 0.6364
+-------- no ris -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.00978 Mbps
+Sum V2I AoI: 4.127799999999999
+Pr(V2V): 0.9512
+-------- no ris -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.00978 Mbps
+Sum V2I AoI: 4.127799999999999
+Pr(V2V): 0.9512
+-------- no ris -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.39845 Mbps
+Sum V2I AoI: 4.145
+Pr(V2V): 0.9984
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.42451 Mbps
+Sum V2I AoI: 5.938
+Pr(V2V): 0.20865
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.58402 Mbps
+Sum V2I AoI: 5.387
+Pr(V2V): 0.9103
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.22353 Mbps
+Sum V2I AoI: 5.285
+Pr(V2V): 0.92425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.28174 Mbps
+Sum V2I AoI: 5.11
+Pr(V2V): 0.9463
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.44007 Mbps
+Sum V2I AoI: 5.016
+Pr(V2V): 0.96755
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.47869 Mbps
+Sum V2I AoI: 5.035
+Pr(V2V): 0.9683
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.41801 Mbps
+Sum V2I AoI: 5.14
+Pr(V2V): 0.96705
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.48698 Mbps
+Sum V2I AoI: 5.105
+Pr(V2V): 0.9681
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.43158 Mbps
+Sum V2I AoI: 5.113
+Pr(V2V): 0.96735
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.10971 Mbps
+Sum V2I AoI: 5.137
+Pr(V2V): 0.9615
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.03327 Mbps
+Sum V2I AoI: 5.15
+Pr(V2V): 0.9607
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.14723 Mbps
+Sum V2I AoI: 5.18
+Pr(V2V): 0.9624
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.10699 Mbps
+Sum V2I AoI: 5.207
+Pr(V2V): 0.96115
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.17783 Mbps
+Sum V2I AoI: 5.016
+Pr(V2V): 0.96265
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.13369 Mbps
+Sum V2I AoI: 5.06
+Pr(V2V): 0.9621
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.6932 Mbps
+Sum V2I AoI: 5.22
+Pr(V2V): 0.95375
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.42063 Mbps
+Sum V2I AoI: 5.21
+Pr(V2V): 0.94965
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.71269 Mbps
+Sum V2I AoI: 5.133
+Pr(V2V): 0.9535
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.53857 Mbps
+Sum V2I AoI: 5.215
+Pr(V2V): 0.9509
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.66277 Mbps
+Sum V2I AoI: 5.227
+Pr(V2V): 0.9527
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.44442 Mbps
+Sum V2I AoI: 5.188
+Pr(V2V): 0.9489
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.28771 Mbps
+Sum V2I AoI: 5.316
+Pr(V2V): 0.94605
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.409 Mbps
+Sum V2I AoI: 5.25
+Pr(V2V): 0.94875
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.25862 Mbps
+Sum V2I AoI: 5.234
+Pr(V2V): 0.94585
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.31127 Mbps
+Sum V2I AoI: 5.234
+Pr(V2V): 0.94715
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.8408 Mbps
+Sum V2I AoI: 5.152
+Pr(V2V): 0.9373
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.74351 Mbps
+Sum V2I AoI: 5.34
+Pr(V2V): 0.9359
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.70354 Mbps
+Sum V2I AoI: 5.58
+Pr(V2V): 0.8934
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.76228 Mbps
+Sum V2I AoI: 5.453
+Pr(V2V): 0.8933
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.79519 Mbps
+Sum V2I AoI: 5.72
+Pr(V2V): 0.89345
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.59339 Mbps
+Sum V2I AoI: 5.555
+Pr(V2V): 0.89
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.61502 Mbps
+Sum V2I AoI: 5.598
+Pr(V2V): 0.89005
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.42547 Mbps
+Sum V2I AoI: 5.4
+Pr(V2V): 0.9091
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.58088 Mbps
+Sum V2I AoI: 5.305
+Pr(V2V): 0.9111
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.46898 Mbps
+Sum V2I AoI: 5.3
+Pr(V2V): 0.90835
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.55428 Mbps
+Sum V2I AoI: 5.31
+Pr(V2V): 0.9107
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.37387 Mbps
+Sum V2I AoI: 5.23
+Pr(V2V): 0.9271
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.10641 Mbps
+Sum V2I AoI: 5.293
+Pr(V2V): 0.92215
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.2745 Mbps
+Sum V2I AoI: 5.28
+Pr(V2V): 0.92605
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.33856 Mbps
+Sum V2I AoI: 5.227
+Pr(V2V): 0.92635
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.50001 Mbps
+Sum V2I AoI: 5.23
+Pr(V2V): 0.92955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.33442 Mbps
+Sum V2I AoI: 5.234
+Pr(V2V): 0.92595
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.29926 Mbps
+Sum V2I AoI: 5.227
+Pr(V2V): 0.94595
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.19185 Mbps
+Sum V2I AoI: 5.227
+Pr(V2V): 0.943
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.42201 Mbps
+Sum V2I AoI: 5.176
+Pr(V2V): 0.96165
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.46894 Mbps
+Sum V2I AoI: 5.086
+Pr(V2V): 0.962
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.26433 Mbps
+Sum V2I AoI: 5.168
+Pr(V2V): 0.9624
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.17924 Mbps
+Sum V2I AoI: 5.066
+Pr(V2V): 0.96145
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.15886 Mbps
+Sum V2I AoI: 5.113
+Pr(V2V): 0.96085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.28821 Mbps
+Sum V2I AoI: 5.098
+Pr(V2V): 0.9629
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.17024 Mbps
+Sum V2I AoI: 5.188
+Pr(V2V): 0.96135
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.11529 Mbps
+Sum V2I AoI: 5.133
+Pr(V2V): 0.96045
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.20534 Mbps
+Sum V2I AoI: 5.22
+Pr(V2V): 0.9423
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.38454 Mbps
+Sum V2I AoI: 5.113
+Pr(V2V): 0.94645
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.25496 Mbps
+Sum V2I AoI: 5.164
+Pr(V2V): 0.94345
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.2431 Mbps
+Sum V2I AoI: 5.12
+Pr(V2V): 0.9444
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.50921 Mbps
+Sum V2I AoI: 5.16
+Pr(V2V): 0.9482
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.32404 Mbps
+Sum V2I AoI: 5.156
+Pr(V2V): 0.94515
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.31054 Mbps
+Sum V2I AoI: 5.215
+Pr(V2V): 0.94465
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.56205 Mbps
+Sum V2I AoI: 5.344
+Pr(V2V): 0.9293
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.49391 Mbps
+Sum V2I AoI: 5.215
+Pr(V2V): 0.9287
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.27505 Mbps
+Sum V2I AoI: 5.375
+Pr(V2V): 0.92485
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.34691 Mbps
+Sum V2I AoI: 5.22
+Pr(V2V): 0.9252
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.28072 Mbps
+Sum V2I AoI: 5.297
+Pr(V2V): 0.9243
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.48221 Mbps
+Sum V2I AoI: 5.41
+Pr(V2V): 0.92845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.35122 Mbps
+Sum V2I AoI: 5.47
+Pr(V2V): 0.92555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.19744 Mbps
+Sum V2I AoI: 5.246
+Pr(V2V): 0.92345
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.0251 Mbps
+Sum V2I AoI: 7.473
+Pr(V2V): 0.9332
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.29846 Mbps
+Sum V2I AoI: 7.49
+Pr(V2V): 0.93835
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.08476 Mbps
+Sum V2I AoI: 8.375
+Pr(V2V): 0.9323
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.85556 Mbps
+Sum V2I AoI: 7.547
+Pr(V2V): 0.9248
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.91649 Mbps
+Sum V2I AoI: 7.406
+Pr(V2V): 0.9279
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.48973 Mbps
+Sum V2I AoI: 8.555
+Pr(V2V): 0.8886
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.56445 Mbps
+Sum V2I AoI: 8.41
+Pr(V2V): 0.89535
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.15206 Mbps
+Sum V2I AoI: 8.46
+Pr(V2V): 0.88215
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.44646 Mbps
+Sum V2I AoI: 8.36
+Pr(V2V): 0.89135
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.36592 Mbps
+Sum V2I AoI: 8.625
+Pr(V2V): 0.8859
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.44831 Mbps
+Sum V2I AoI: 8.125
+Pr(V2V): 0.8645
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.87153 Mbps
+Sum V2I AoI: 8.13
+Pr(V2V): 0.84995
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.02291 Mbps
+Sum V2I AoI: 9.305
+Pr(V2V): 0.8527
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.96315 Mbps
+Sum V2I AoI: 9.39
+Pr(V2V): 0.85025
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.22028 Mbps
+Sum V2I AoI: 9.15
+Pr(V2V): 0.8557
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.33191 Mbps
+Sum V2I AoI: 8.88
+Pr(V2V): 0.86035
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.79778 Mbps
+Sum V2I AoI: 8.98
+Pr(V2V): 0.81335
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.12667 Mbps
+Sum V2I AoI: 9.016
+Pr(V2V): 0.8231
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.03528 Mbps
+Sum V2I AoI: 9.2
+Pr(V2V): 0.8203
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.00991 Mbps
+Sum V2I AoI: 8.25
+Pr(V2V): 0.8199
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.96617 Mbps
+Sum V2I AoI: 10.33
+Pr(V2V): 0.8179
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.74985 Mbps
+Sum V2I AoI: 9.93
+Pr(V2V): 0.8139
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.73466 Mbps
+Sum V2I AoI: 9.62
+Pr(V2V): 0.812
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.07974 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.71935
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.07974 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.71935
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.07974 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.71935
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.07974 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.71935
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.30518 Mbps
+Sum V2I AoI: 5.477
+Pr(V2V): 0.6566
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.69875 Mbps
+Sum V2I AoI: 5.754
+Pr(V2V): 0.62405
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.50374 Mbps
+Sum V2I AoI: 5.89
+Pr(V2V): 0.58235
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 48.9778 Mbps
+Sum V2I AoI: 5.848
+Pr(V2V): 0.5603
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.10734 Mbps
+Sum V2I AoI: 6.375
+Pr(V2V): 0.81185
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.10734 Mbps
+Sum V2I AoI: 6.375
+Pr(V2V): 0.81185
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.85108 Mbps
+Sum V2I AoI: 6.504
+Pr(V2V): 0.7612
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.72081 Mbps
+Sum V2I AoI: 6.87
+Pr(V2V): 0.71175
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.21926 Mbps
+Sum V2I AoI: 7.03
+Pr(V2V): 0.68055
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.39332 Mbps
+Sum V2I AoI: 7.11
+Pr(V2V): 0.6542
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.52845 Mbps
+Sum V2I AoI: 5.094
+Pr(V2V): 0.96935
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.47879 Mbps
+Sum V2I AoI: 5.086
+Pr(V2V): 0.96845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.20749 Mbps
+Sum V2I AoI: 8.02
+Pr(V2V): 0.52955
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 31.74341 Mbps
+Sum V2I AoI: 10.54
+Pr(V2V): 0.01575
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.97932 Mbps
+Sum V2I AoI: 7.094
+Pr(V2V): 0.889
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.86428 Mbps
+Sum V2I AoI: 6.84
+Pr(V2V): 0.88475
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.90133 Mbps
+Sum V2I AoI: 6.223
+Pr(V2V): 0.96115
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.75207 Mbps
+Sum V2I AoI: 7.42
+Pr(V2V): 0.62425
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.96147 Mbps
+Sum V2I AoI: 6.66
+Pr(V2V): 0.5994
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.94519 Mbps
+Sum V2I AoI: 6.93
+Pr(V2V): 0.60835
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.46913 Mbps
+Sum V2I AoI: 5.89
+Pr(V2V): 0.84475
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.00154 Mbps
+Sum V2I AoI: 6.2
+Pr(V2V): 0.8346
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.5226 Mbps
+Sum V2I AoI: 6.094
+Pr(V2V): 0.6196
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.94734 Mbps
+Sum V2I AoI: 5.953
+Pr(V2V): 0.54755
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.414 Mbps
+Sum V2I AoI: 6.06
+Pr(V2V): 0.57325
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.39385 Mbps
+Sum V2I AoI: 6.438
+Pr(V2V): 0.63
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.09449 Mbps
+Sum V2I AoI: 5.0
+Pr(V2V): 0.65205
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.75601 Mbps
+Sum V2I AoI: 5.48
+Pr(V2V): 0.6396
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.77733 Mbps
+Sum V2I AoI: 5.527
+Pr(V2V): 0.65475
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.9355 Mbps
+Sum V2I AoI: 5.7
+Pr(V2V): 0.74105
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.56889 Mbps
+Sum V2I AoI: 6.613
+Pr(V2V): 0.7036
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 45.47305 Mbps
+Sum V2I AoI: 15.07
+Pr(V2V): 0.37695
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.67278 Mbps
+Sum V2I AoI: 5.37
+Pr(V2V): 0.91385
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 42.43925 Mbps
+Sum V2I AoI: 5.945
+Pr(V2V): 0.47555
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.26108 Mbps
+Sum V2I AoI: 6.668
+Pr(V2V): 0.59995
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.49048 Mbps
+Sum V2I AoI: 6.89
+Pr(V2V): 0.5607
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.75374 Mbps
+Sum V2I AoI: 6.652
+Pr(V2V): 0.5409
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.71331 Mbps
+Sum V2I AoI: 7.11
+Pr(V2V): 0.54135
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.40751 Mbps
+Sum V2I AoI: 6.91
+Pr(V2V): 0.574
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.90901 Mbps
+Sum V2I AoI: 7.1
+Pr(V2V): 0.54935
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.47709 Mbps
+Sum V2I AoI: 6.633
+Pr(V2V): 0.554
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.4047 Mbps
+Sum V2I AoI: 6.65
+Pr(V2V): 0.54735
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.84659 Mbps
+Sum V2I AoI: 12.06
+Pr(V2V): 0.94248
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.67696 Mbps
+Sum V2I AoI: 4.6
+Pr(V2V): 0.63285
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.67696 Mbps
+Sum V2I AoI: 4.6
+Pr(V2V): 0.63285
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.69458 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.9125
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62593 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.73455
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.32689 Mbps
+Sum V2I AoI: 5.62
+Pr(V2V): 0.776
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.32689 Mbps
+Sum V2I AoI: 5.62
+Pr(V2V): 0.776
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.87789 Mbps
+Sum V2I AoI: 5.71
+Pr(V2V): 0.7662
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.22361 Mbps
+Sum V2I AoI: 5.668
+Pr(V2V): 0.74915
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62593 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.73455
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 54.93848 Mbps
+Sum V2I AoI: 6.074
+Pr(V2V): 0.719
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62593 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.73455
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.6196 Mbps
+Sum V2I AoI: 11.625
+Pr(V2V): 0.76655
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.89757 Mbps
+Sum V2I AoI: 9.73
+Pr(V2V): 0.7631
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.32797 Mbps
+Sum V2I AoI: 7.69
+Pr(V2V): 0.7627
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.60346 Mbps
+Sum V2I AoI: 6.617
+Pr(V2V): 0.7574
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 53.72527 Mbps
+Sum V2I AoI: 6.023
+Pr(V2V): 0.7474
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62593 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.73455
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.40117 Mbps
+Sum V2I AoI: 5.324
+Pr(V2V): 0.90735
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.18945 Mbps
+Sum V2I AoI: 9.17
+Pr(V2V): 0.8287
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62593 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.73455
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.21926 Mbps
+Sum V2I AoI: 7.03
+Pr(V2V): 0.68055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.42621 Mbps
+Sum V2I AoI: 5.41
+Pr(V2V): 0.9079
+-------- random -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.42451 Mbps
+Sum V2I AoI: 5.938
+Pr(V2V): 0.20865
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 119.05872 Mbps
+Sum V2I AoI: 12.25
+Pr(V2V): 0.94555
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 113.90859 Mbps
+Sum V2I AoI: 10.72
+Pr(V2V): 0.92087
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.41925 Mbps
+Sum V2I AoI: 12.9
+Pr(V2V): 0.41035
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.42028 Mbps
+Sum V2I AoI: 5.426
+Pr(V2V): 0.9084
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.73107 Mbps
+Sum V2I AoI: 5.336
+Pr(V2V): 0.9091
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.26908 Mbps
+Sum V2I AoI: 5.406
+Pr(V2V): 0.9102
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.20471 Mbps
+Sum V2I AoI: 5.43
+Pr(V2V): 0.9095
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.35504 Mbps
+Sum V2I AoI: 5.426
+Pr(V2V): 0.90675
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.71048 Mbps
+Sum V2I AoI: 5.293
+Pr(V2V): 0.9085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.64897 Mbps
+Sum V2I AoI: 5.68
+Pr(V2V): 0.9091
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.04747 Mbps
+Sum V2I AoI: 5.383
+Pr(V2V): 0.90545
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.79444 Mbps
+Sum V2I AoI: 12.57
+Pr(V2V): 0.94305
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.94326 Mbps
+Sum V2I AoI: 12.48
+Pr(V2V): 0.94348
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.38665 Mbps
+Sum V2I AoI: 9.19
+Pr(V2V): 0.83
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.44994 Mbps
+Sum V2I AoI: 9.04
+Pr(V2V): 0.82725
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.60764 Mbps
+Sum V2I AoI: 8.695
+Pr(V2V): 0.8348
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.3003 Mbps
+Sum V2I AoI: 9.28
+Pr(V2V): 0.82355
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.26773 Mbps
+Sum V2I AoI: 8.71
+Pr(V2V): 0.8356
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.83051 Mbps
+Sum V2I AoI: 8.164
+Pr(V2V): 0.82515
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.64689 Mbps
+Sum V2I AoI: 8.72
+Pr(V2V): 0.82665
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.09899 Mbps
+Sum V2I AoI: 8.78
+Pr(V2V): 0.83895
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.18691 Mbps
+Sum V2I AoI: 8.1
+Pr(V2V): 0.8261
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.47816 Mbps
+Sum V2I AoI: 5.426
+Pr(V2V): 0.9098
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.567 Mbps
+Sum V2I AoI: 5.37
+Pr(V2V): 0.9104
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.5142 Mbps
+Sum V2I AoI: 5.293
+Pr(V2V): 0.9095
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.21612 Mbps
+Sum V2I AoI: 5.465
+Pr(V2V): 0.9047
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.45732 Mbps
+Sum V2I AoI: 5.492
+Pr(V2V): 0.9088
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.55447 Mbps
+Sum V2I AoI: 5.367
+Pr(V2V): 0.91025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.27431 Mbps
+Sum V2I AoI: 5.363
+Pr(V2V): 0.90495
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.5159 Mbps
+Sum V2I AoI: 5.285
+Pr(V2V): 0.90865
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.54472 Mbps
+Sum V2I AoI: 5.36
+Pr(V2V): 0.90925
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.63253 Mbps
+Sum V2I AoI: 5.234
+Pr(V2V): 0.91055
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.18923 Mbps
+Sum V2I AoI: 5.613
+Pr(V2V): 0.9061
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.29332 Mbps
+Sum V2I AoI: 5.418
+Pr(V2V): 0.9073
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.35485 Mbps
+Sum V2I AoI: 5.438
+Pr(V2V): 0.9077
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.21405 Mbps
+Sum V2I AoI: 5.383
+Pr(V2V): 0.9059
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.5108 Mbps
+Sum V2I AoI: 5.22
+Pr(V2V): 0.9092
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.32276 Mbps
+Sum V2I AoI: 5.65
+Pr(V2V): 0.9065
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.40714 Mbps
+Sum V2I AoI: 5.273
+Pr(V2V): 0.9092
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.91496 Mbps
+Sum V2I AoI: 5.312
+Pr(V2V): 0.90845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.82893 Mbps
+Sum V2I AoI: 5.297
+Pr(V2V): 0.90625
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.03263 Mbps
+Sum V2I AoI: 5.344
+Pr(V2V): 0.91025
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.81664 Mbps
+Sum V2I AoI: 5.305
+Pr(V2V): 0.90665
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.99464 Mbps
+Sum V2I AoI: 5.33
+Pr(V2V): 0.91015
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.51752 Mbps
+Sum V2I AoI: 5.457
+Pr(V2V): 0.90925
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.53364 Mbps
+Sum V2I AoI: 5.395
+Pr(V2V): 0.909
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.40916 Mbps
+Sum V2I AoI: 9.28
+Pr(V2V): 0.83465
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.35433 Mbps
+Sum V2I AoI: 9.03
+Pr(V2V): 0.83165
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.71871 Mbps
+Sum V2I AoI: 7.94
+Pr(V2V): 0.841
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.55431 Mbps
+Sum V2I AoI: 8.71
+Pr(V2V): 0.83295
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.37491 Mbps
+Sum V2I AoI: 9.195
+Pr(V2V): 0.8339
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.14256 Mbps
+Sum V2I AoI: 9.92
+Pr(V2V): 0.8278
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.52153 Mbps
+Sum V2I AoI: 9.39
+Pr(V2V): 0.83495
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.07309 Mbps
+Sum V2I AoI: 9.33
+Pr(V2V): 0.8323
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.26718 Mbps
+Sum V2I AoI: 8.3
+Pr(V2V): 0.83755
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.12275 Mbps
+Sum V2I AoI: 8.664
+Pr(V2V): 0.8324
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.26359 Mbps
+Sum V2I AoI: 8.734
+Pr(V2V): 0.83695
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.14995 Mbps
+Sum V2I AoI: 9.11
+Pr(V2V): 0.8313
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.88446 Mbps
+Sum V2I AoI: 8.53
+Pr(V2V): 0.8324
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.9024 Mbps
+Sum V2I AoI: 8.59
+Pr(V2V): 0.83135
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.79044 Mbps
+Sum V2I AoI: 8.3
+Pr(V2V): 0.8284
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.76628 Mbps
+Sum V2I AoI: 9.22
+Pr(V2V): 0.83365
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 58.82544 Mbps
+Sum V2I AoI: 9.01
+Pr(V2V): 0.8312
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.00417 Mbps
+Sum V2I AoI: 8.51
+Pr(V2V): 0.84045
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.26524 Mbps
+Sum V2I AoI: 8.125
+Pr(V2V): 0.82815
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.00751 Mbps
+Sum V2I AoI: 8.91
+Pr(V2V): 0.82505
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.26566 Mbps
+Sum V2I AoI: 7.95
+Pr(V2V): 0.829
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.46229 Mbps
+Sum V2I AoI: 8.18
+Pr(V2V): 0.8402
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.29419 Mbps
+Sum V2I AoI: 8.98
+Pr(V2V): 0.8323
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.25864 Mbps
+Sum V2I AoI: 8.67
+Pr(V2V): 0.83115
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.61906 Mbps
+Sum V2I AoI: 5.746
+Pr(V2V): 0.73455
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.61906 Mbps
+Sum V2I AoI: 5.746
+Pr(V2V): 0.73455
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.64154 Mbps
+Sum V2I AoI: 5.617
+Pr(V2V): 0.7345
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.06955 Mbps
+Sum V2I AoI: 5.645
+Pr(V2V): 0.7353
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.44953 Mbps
+Sum V2I AoI: 5.66
+Pr(V2V): 0.7374
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.46898 Mbps
+Sum V2I AoI: 7.0
+Pr(V2V): 0.68515
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.46898 Mbps
+Sum V2I AoI: 7.0
+Pr(V2V): 0.68515
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.75293 Mbps
+Sum V2I AoI: 6.84
+Pr(V2V): 0.68605
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 51.97427 Mbps
+Sum V2I AoI: 7.152
+Pr(V2V): 0.6809
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.24113 Mbps
+Sum V2I AoI: 7.277
+Pr(V2V): 0.6808
+-------- ddpg  -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 52.24113 Mbps
+Sum V2I AoI: 7.277
+Pr(V2V): 0.6808
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.83309 Mbps
+Sum V2I AoI: 12.63
+Pr(V2V): 0.94245
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.90165 Mbps
+Sum V2I AoI: 12.43
+Pr(V2V): 0.9425
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 119.02702 Mbps
+Sum V2I AoI: 12.484
+Pr(V2V): 0.94512
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.78972 Mbps
+Sum V2I AoI: 12.08
+Pr(V2V): 0.94138
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.91917 Mbps
+Sum V2I AoI: 12.234
+Pr(V2V): 0.94402
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 120.23981 Mbps
+Sum V2I AoI: 12.73
+Pr(V2V): 0.9446
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 120.13531 Mbps
+Sum V2I AoI: 12.82
+Pr(V2V): 0.94152
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 120.14466 Mbps
+Sum V2I AoI: 12.26
+Pr(V2V): 0.94425
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 120.32532 Mbps
+Sum V2I AoI: 12.58
+Pr(V2V): 0.9439
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 120.28941 Mbps
+Sum V2I AoI: 12.84
+Pr(V2V): 0.94518
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 119.00788 Mbps
+Sum V2I AoI: 12.19
+Pr(V2V): 0.94572
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.23446 Mbps
+Sum V2I AoI: 12.71
+Pr(V2V): 0.9447
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.01906 Mbps
+Sum V2I AoI: 12.73
+Pr(V2V): 0.9397
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 120.6412 Mbps
+Sum V2I AoI: 13.06
+Pr(V2V): 0.9347
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.36898 Mbps
+Sum V2I AoI: 13.13
+Pr(V2V): 0.94505
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.30267 Mbps
+Sum V2I AoI: 12.734
+Pr(V2V): 0.94578
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.71865 Mbps
+Sum V2I AoI: 12.664
+Pr(V2V): 0.94358
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.87112 Mbps
+Sum V2I AoI: 13.22
+Pr(V2V): 0.9446
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.52322 Mbps
+Sum V2I AoI: 12.914
+Pr(V2V): 0.94075
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.68926 Mbps
+Sum V2I AoI: 12.164
+Pr(V2V): 0.9451
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.62424 Mbps
+Sum V2I AoI: 12.9
+Pr(V2V): 0.94125
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.84068 Mbps
+Sum V2I AoI: 12.1
+Pr(V2V): 0.94725
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.78801 Mbps
+Sum V2I AoI: 12.47
+Pr(V2V): 0.94375
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 121.72288 Mbps
+Sum V2I AoI: 12.516
+Pr(V2V): 0.94477
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.84858 Mbps
+Sum V2I AoI: 12.01
+Pr(V2V): 0.94323
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 118.84741 Mbps
+Sum V2I AoI: 12.31
+Pr(V2V): 0.94145
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 60.05597 Mbps
+Sum V2I AoI: 5.305
+Pr(V2V): 0.9203
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 163.93112 Mbps
+Sum V2I AoI: 17.77
+Pr(V2V): 0.83138
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 163.50123 Mbps
+Sum V2I AoI: 18.34
+Pr(V2V): 0.82943
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 163.66558 Mbps
+Sum V2I AoI: 17.39
+Pr(V2V): 0.83305
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 164.09203 Mbps
+Sum V2I AoI: 17.52
+Pr(V2V): 0.83615
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 163.95341 Mbps
+Sum V2I AoI: 17.83
+Pr(V2V): 0.8335
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 163.97489 Mbps
+Sum V2I AoI: 17.88
+Pr(V2V): 0.83555
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 174.19265 Mbps
+Sum V2I AoI: 17.84
+Pr(V2V): 0.8859
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 174.43248 Mbps
+Sum V2I AoI: 17.19
+Pr(V2V): 0.88573
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 174.20205 Mbps
+Sum V2I AoI: 18.02
+Pr(V2V): 0.88323
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 174.5169 Mbps
+Sum V2I AoI: 17.72
+Pr(V2V): 0.88305
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 173.92124 Mbps
+Sum V2I AoI: 17.2
+Pr(V2V): 0.88387
+-------- SAC ------
+n_veh: 8, n_neighbor: 1
+Sum V2I rate: 114.05333 Mbps
+Sum V2I AoI: 10.914
+Pr(V2V): 0.92388
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 175.24078 Mbps
+Sum V2I AoI: 17.52
+Pr(V2V): 0.88692
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 175.0118 Mbps
+Sum V2I AoI: 17.8
+Pr(V2V): 0.88353
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 174.89245 Mbps
+Sum V2I AoI: 17.81
+Pr(V2V): 0.88353
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 173.70756 Mbps
+Sum V2I AoI: 17.52
+Pr(V2V): 0.87325
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 175.20161 Mbps
+Sum V2I AoI: 17.84
+Pr(V2V): 0.88408
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 174.5211 Mbps
+Sum V2I AoI: 17.38
+Pr(V2V): 0.88287
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.39198 Mbps
+Sum V2I AoI: 17.77
+Pr(V2V): 0.88127
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 175.86054 Mbps
+Sum V2I AoI: 18.1
+Pr(V2V): 0.87925
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 175.99103 Mbps
+Sum V2I AoI: 18.1
+Pr(V2V): 0.88042
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.2843 Mbps
+Sum V2I AoI: 18.14
+Pr(V2V): 0.88202
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.43191 Mbps
+Sum V2I AoI: 17.6
+Pr(V2V): 0.88508
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.28443 Mbps
+Sum V2I AoI: 17.8
+Pr(V2V): 0.88105
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 177.49583 Mbps
+Sum V2I AoI: 18.08
+Pr(V2V): 0.87988
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 177.68742 Mbps
+Sum V2I AoI: 18.2
+Pr(V2V): 0.88198
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.96473 Mbps
+Sum V2I AoI: 18.17
+Pr(V2V): 0.87675
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 178.12021 Mbps
+Sum V2I AoI: 18.27
+Pr(V2V): 0.88742
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.80992 Mbps
+Sum V2I AoI: 18.03
+Pr(V2V): 0.87085
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 177.4085 Mbps
+Sum V2I AoI: 17.92
+Pr(V2V): 0.87877
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 176.60386 Mbps
+Sum V2I AoI: 17.19
+Pr(V2V): 0.8753
+-------- SAC ------
+n_veh: 12, n_neighbor: 1
+Sum V2I rate: 177.58988 Mbps
+Sum V2I AoI: 17.44
+Pr(V2V): 0.88433
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.28426 Mbps
+Sum V2I AoI: 13.195
+Pr(V2V): 0.404
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.61578 Mbps
+Sum V2I AoI: 5.25
+Pr(V2V): 0.9121
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.45372 Mbps
+Sum V2I AoI: 5.258
+Pr(V2V): 0.90845
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.41196 Mbps
+Sum V2I AoI: 5.445
+Pr(V2V): 0.9083
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 56.84966 Mbps
+Sum V2I AoI: 5.727
+Pr(V2V): 0.92155
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.60322 Mbps
+Sum V2I AoI: 5.348
+Pr(V2V): 0.9108
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.51596 Mbps
+Sum V2I AoI: 5.14
+Pr(V2V): 0.91065
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.50053 Mbps
+Sum V2I AoI: 5.426
+Pr(V2V): 0.9098
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.12323 Mbps
+Sum V2I AoI: 5.285
+Pr(V2V): 0.96235
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.16455 Mbps
+Sum V2I AoI: 5.03
+Pr(V2V): 0.9623
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.08 Mbps
+Sum V2I AoI: 5.1
+Pr(V2V): 0.96095
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.18687 Mbps
+Sum V2I AoI: 5.15
+Pr(V2V): 0.9636
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 62.12925 Mbps
+Sum V2I AoI: 5.08
+Pr(V2V): 0.9622
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.68202 Mbps
+Sum V2I AoI: 5.227
+Pr(V2V): 0.9651
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.61534 Mbps
+Sum V2I AoI: 5.098
+Pr(V2V): 0.96295
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.70108 Mbps
+Sum V2I AoI: 5.133
+Pr(V2V): 0.96495
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.62941 Mbps
+Sum V2I AoI: 5.09
+Pr(V2V): 0.96355
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.6783 Mbps
+Sum V2I AoI: 5.09
+Pr(V2V): 0.9652
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.69047 Mbps
+Sum V2I AoI: 5.24
+Pr(V2V): 0.96475
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.18295 Mbps
+Sum V2I AoI: 5.207
+Pr(V2V): 0.9663
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.06985 Mbps
+Sum V2I AoI: 5.21
+Pr(V2V): 0.9644
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.1025 Mbps
+Sum V2I AoI: 5.266
+Pr(V2V): 0.9657
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.0529 Mbps
+Sum V2I AoI: 5.188
+Pr(V2V): 0.965
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.13302 Mbps
+Sum V2I AoI: 5.254
+Pr(V2V): 0.96545
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 57.14915 Mbps
+Sum V2I AoI: 5.32
+Pr(V2V): 0.9664
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.4821 Mbps
+Sum V2I AoI: 6.492
+Pr(V2V): 0.96785
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.12902 Mbps
+Sum V2I AoI: 12.41
+Pr(V2V): 0.9609
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.94163 Mbps
+Sum V2I AoI: 7.105
+Pr(V2V): 0.9683
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.40023 Mbps
+Sum V2I AoI: 6.492
+Pr(V2V): 0.9663
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.45926 Mbps
+Sum V2I AoI: 6.41
+Pr(V2V): 0.968
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 49.4438 Mbps
+Sum V2I AoI: 6.207
+Pr(V2V): 0.9673
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 47.77981 Mbps
+Sum V2I AoI: 6.594
+Pr(V2V): 0.9294
+-------- PPO -------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 46.74643 Mbps
+Sum V2I AoI: 10.65
+Pr(V2V): 0.8846
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 50.38532 Mbps
+Sum V2I AoI: 6.562
+Pr(V2V): 0.93185
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 44.6196 Mbps
+Sum V2I AoI: 11.625
+Pr(V2V): 0.76655
+-------- TD3------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 55.62593 Mbps
+Sum V2I AoI: 5.76
+Pr(V2V): 0.73455
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.47185 Mbps
+Sum V2I AoI: 5.273
+Pr(V2V): 0.9085
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.40883 Mbps
+Sum V2I AoI: 5.223
+Pr(V2V): 0.94875
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 63.73961 Mbps
+Sum V2I AoI: 5.27
+Pr(V2V): 0.9434
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.12546 Mbps
+Sum V2I AoI: 5.36
+Pr(V2V): 0.9437
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 61.05167 Mbps
+Sum V2I AoI: 5.203
+Pr(V2V): 0.94215
+-------- SAC ------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 59.46875 Mbps
+Sum V2I AoI: 5.42
+Pr(V2V): 0.90895
